@@ -21,6 +21,17 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 7 | [True or False?](episodes/07.md) | Booleans | [Watch](https://www.youtube.com/shorts/HsVstiyDFHM) |
 | 8 | [The Secret Function](episodes/08.md) | Functions | [Watch](https://www.youtube.com/shorts/P6LczhyNUh4) |
 | 9 | [Give Klic an Input!](episodes/09.md) | Input and output | [Watch](https://www.youtube.com/shorts/4czd_8Hmj4I) |
+| 10 | [Push the Button!](episodes/10.md) | events | Prepared |
+| 11 | [Klic Makes a List](episodes/11.md) | lists | Prepared |
+| 12 | [Ask Before You Share](episodes/12.md) | privacy | Prepared |
+| 13 | [Klic Sorts the Toys](episodes/13.md) | sorting | Prepared |
+| 14 | [Find It Fast!](episodes/14.md) | searching | Prepared |
+| 15 | [Stop the Loop!](episodes/15.md) | stop loop | Prepared |
+| 16 | [Keep It Secret!](episodes/16.md) | passwords | Prepared |
+| 17 | [Klic Makes a Backup](episodes/17.md) | backups | Prepared |
+| 18 | [Words vs. Numbers](episodes/18.md) | data types | Prepared |
+| 19 | [Klic’s Reusable Trick](episodes/19.md) | reuse | Prepared |
+| 20 | [One Step at a Time](episodes/20.md) | algorithm | Prepared |
 
 ## About the series
 
