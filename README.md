@@ -15,12 +15,12 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 1 | [Find the Bug!](episodes/01.md) | Debugging | [Watch](https://www.youtube.com/shorts/N-2lVu0XPUw) |
 | 2 | [Loop It!](episodes/02.md) | Loops | [Watch](https://www.youtube.com/shorts/6h5Q2iLuwJ0) |
 | 3 | [If / Then!](episodes/03.md) | Conditions | [Watch](https://www.youtube.com/shorts/yEZ-p6Z2pks) |
-| 4 | [Klic Gets Stuck!](episodes/04.md) | Sequences | In production |
-| 5 | [What’s a String?](episodes/05.md) | Strings | In production |
-| 6 | [The Mystery Number](episodes/06.md) | Variables | In production |
-| 7 | [True or False?](episodes/07.md) | Booleans | In production |
-| 8 | [The Secret Function](episodes/08.md) | Functions | In production |
-| 9 | [Give Klic an Input!](episodes/09.md) | Input and output | In production |
+| 4 | [Klic Gets Stuck!](episodes/04.md) | Sequences | [Watch](https://www.youtube.com/shorts/YDvP1hynkV4) |
+| 5 | [What’s a String?](episodes/05.md) | Strings | [Watch](https://www.youtube.com/shorts/PX3T7u5fzBQ) |
+| 6 | [The Mystery Number](episodes/06.md) | Variables | [Watch](https://www.youtube.com/shorts/nG6B96IKGEo) |
+| 7 | [True or False?](episodes/07.md) | Booleans | [Watch](https://www.youtube.com/shorts/HsVstiyDFHM) |
+| 8 | [The Secret Function](episodes/08.md) | Functions | [Watch](https://www.youtube.com/shorts/P6LczhyNUh4) |
+| 9 | [Give Klic an Input!](episodes/09.md) | Input and output | [Watch](https://www.youtube.com/shorts/4czd_8Hmj4I) |
 
 ## About the series
 
