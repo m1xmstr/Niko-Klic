@@ -21,7 +21,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 7 | [True or False?](episodes/07.md) | Booleans | [Watch](https://www.youtube.com/shorts/HsVstiyDFHM) |
 | 8 | [The Secret Function](episodes/08.md) | Functions | [Watch](https://www.youtube.com/shorts/P6LczhyNUh4) |
 | 9 | [Give Klic an Input!](episodes/09.md) | Input and output | [Watch](https://www.youtube.com/shorts/4czd_8Hmj4I) |
-| 10 | [Push the Button!](episodes/10.md) | events | Prepared |
+| 10 | [Push the Button!](episodes/10.md) | events | [Watch](https://www.youtube.com/shorts/TmNbK4eaaAE) |
 | 11 | [Klic Makes a List](episodes/11.md) | lists | [Watch](https://www.youtube.com/shorts/fCqa0Avh3l4) |
 | 12 | [Ask Before You Share](episodes/12.md) | privacy | [Watch](https://www.youtube.com/shorts/4PdH-_KUqSs) |
 | 13 | [Klic Sorts the Toys](episodes/13.md) | sorting | [Watch](https://www.youtube.com/shorts/89zZs0CjB8k) |
