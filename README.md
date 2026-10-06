@@ -22,16 +22,16 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 8 | [The Secret Function](episodes/08.md) | Functions | [Watch](https://www.youtube.com/shorts/P6LczhyNUh4) |
 | 9 | [Give Klic an Input!](episodes/09.md) | Input and output | [Watch](https://www.youtube.com/shorts/4czd_8Hmj4I) |
 | 10 | [Push the Button!](episodes/10.md) | events | Prepared |
-| 11 | [Klic Makes a List](episodes/11.md) | lists | Prepared |
-| 12 | [Ask Before You Share](episodes/12.md) | privacy | Prepared |
-| 13 | [Klic Sorts the Toys](episodes/13.md) | sorting | Prepared |
-| 14 | [Find It Fast!](episodes/14.md) | searching | Prepared |
-| 15 | [Stop the Loop!](episodes/15.md) | stop loop | Prepared |
-| 16 | [Keep It Secret!](episodes/16.md) | passwords | Prepared |
-| 17 | [Klic Makes a Backup](episodes/17.md) | backups | Prepared |
-| 18 | [Words vs. Numbers](episodes/18.md) | data types | Prepared |
-| 19 | [Klic’s Reusable Trick](episodes/19.md) | reuse | Prepared |
-| 20 | [One Step at a Time](episodes/20.md) | algorithm | Prepared |
+| 11 | [Klic Makes a List](episodes/11.md) | lists | [Watch](https://www.youtube.com/shorts/fCqa0Avh3l4) |
+| 12 | [Ask Before You Share](episodes/12.md) | privacy | [Watch](https://www.youtube.com/shorts/4PdH-_KUqSs) |
+| 13 | [Klic Sorts the Toys](episodes/13.md) | sorting | [Watch](https://www.youtube.com/shorts/89zZs0CjB8k) |
+| 14 | [Find It Fast!](episodes/14.md) | searching | [Watch](https://www.youtube.com/shorts/3PRYbOXCw-c) |
+| 15 | [Stop the Loop!](episodes/15.md) | stop loop | [Watch](https://www.youtube.com/shorts/gVjXHrcmL1o) |
+| 16 | [Keep It Secret!](episodes/16.md) | passwords | [Watch](https://www.youtube.com/shorts/OH4wzgEkwu8) |
+| 17 | [Klic Makes a Backup](episodes/17.md) | backups | [Watch](https://www.youtube.com/shorts/gmY3l9xVWgs) |
+| 18 | [Words vs. Numbers](episodes/18.md) | data types | [Watch](https://www.youtube.com/shorts/8SHuqxj-BGc) |
+| 19 | [Klic’s Reusable Trick](episodes/19.md) | reuse | [Watch](https://www.youtube.com/shorts/jmzh3Ytw1dg) |
+| 20 | [One Step at a Time](episodes/20.md) | algorithm | [Watch](https://www.youtube.com/shorts/Gm4eJORpUp4) |
 
 ## About the series
 
