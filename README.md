@@ -40,6 +40,8 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 26 | [Name That Variable!](episodes/26.md) | variable names | Prepared |
 | 27 | [Call the Function!](episodes/27.md) | function calls | Prepared |
 
+| 28 | [Will Klic Cross? A Branching Puzzle!](episodes/28.md) | branching | Prepared |
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. They introduce real terminology with simplified visual pseudocode. Longer explanations and adult-supported activities help turn a quick story into learning.
