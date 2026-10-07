@@ -43,18 +43,18 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 29 | [A Prize Wants a Secret? Spot the Phishing Trick](episodes/29.md) | phishing | Prepared |
 | 30 | [Can Klic Reach Ten? Count with Integers](episodes/30.md) | integers | Prepared |
 | 31 | [Half a Jar? Klic Finds a Decimal](episodes/31.md) | decimals | Prepared |
-| 32 | [Where Did the Star Go? Find the Output](episodes/32.md) | output | Prepared |
+| 32 | [Klic Catches the Output!](episodes/32.md) | output | [Watch](https://youtube.com/shorts/P4RcQ6qRVec) |
 | 33 | [Why Won’t It Ring? Klic’s Event Listener](episodes/33.md) | event listeners | Prepared |
-| 34 | [Everyone Can See It? Check Permissions](episodes/34.md) | permissions | Prepared |
-| 35 | [Three Clicks, How Many Stars? Repeated Events](episodes/35.md) | repeated events | Prepared |
-| 36 | [Klic Cannot Stop! An Infinite Loop](episodes/36.md) | infinite loops | Prepared |
-| 37 | [Too Many Blocks? Try Efficient Code](episodes/37.md) | efficient code | Prepared |
-| 38 | [Wait, It’s Unlocked! Device Security](episodes/38.md) | device security | Prepared |
-| 39 | [Will My Drawing Stay? Discover Storage](episodes/39.md) | storage | Prepared |
-| 40 | [Which Path Finds the Star? A Decision Tree](episodes/40.md) | decision trees | Prepared |
-| 41 | [My Drawing Is Gone! Try Recovery](episodes/41.md) | recovery | Prepared |
-| 42 | [The App Is Stuck! Try Software Updates](episodes/42.md) | software updates | Prepared |
-| 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | Prepared |
+| 34 | [Who Can Open Klic's Art? Permissions](episodes/34.md) | permissions | [Watch](https://youtube.com/shorts/K5iRTslmD5s) |
+| 35 | [Three Clicks, Three Stars? Repeated Events](episodes/35.md) | repeated events | Scheduled Oct 07 05:20 PM CT |
+| 36 | [Klic Cannot Stop Hopping! The Forever Loop](episodes/36.md) | forever loop | Scheduled Oct 07 06:00 PM CT |
+| 37 | [Klic Drops the Code! A Smarter Loop](episodes/37.md) | efficient code | Scheduled Oct 07 06:40 PM CT |
+| 38 | [Klic Left It Open! Lock the Screen](episodes/38.md) | screen lock | Scheduled Oct 07 07:20 PM CT |
+| 39 | [Will Klic's Drawing Disappear? Save It](episodes/39.md) | saving | Scheduled Oct 07 08:00 PM CT |
+| 40 | [Which Door Hides the Star? Decision Tree](episodes/40.md) | decision tree | Scheduled Oct 07 08:40 PM CT |
+| 41 | [Klic Lost His Drawing! Restore a Backup](episodes/41.md) | backup | Scheduled Oct 07 09:20 PM CT |
+| 42 | [Klic's App Is Stuck! Time for an Update](episodes/42.md) | software update | Scheduled Oct 07 10:00 PM CT |
+| 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | Scheduled Oct 08 08:00 AM CT |
 
 ## About the series
 
