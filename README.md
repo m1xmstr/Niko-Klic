@@ -40,7 +40,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 26 | [Name That Variable!](episodes/26.md) | variable names | Prepared |
 | 27 | [Call the Function!](episodes/27.md) | function calls | Prepared |
 
-| 28 | [Will Klic Cross? A Branching Puzzle!](episodes/28.md) | branching | Prepared |
+| 28 | [Will Klic Cross? A Branching Puzzle!](episodes/28.md) | branching | Scheduled Oct 7, 12:00 PM Central |
 
 ## About the series
 
