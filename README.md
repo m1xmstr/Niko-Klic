@@ -32,7 +32,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 18 | [Words vs. Numbers](episodes/18.md) | data types | [Watch](https://www.youtube.com/shorts/8SHuqxj-BGc) |
 | 19 | [Klic’s Reusable Trick](episodes/19.md) | reuse | [Watch](https://www.youtube.com/shorts/jmzh3Ytw1dg) |
 | 20 | [One Step at a Time](episodes/20.md) | algorithm | [Watch](https://www.youtube.com/shorts/Gm4eJORpUp4) |
-| 21 | [Understanding What We’ve Learned](episodes/21.md) | review | Prepared |
+| 21 | [Understanding What We’ve Learned](episodes/21.md) | review | [Watch](https://www.youtube.com/watch?v=UwPC3yVyELY) |
 
 ## About the series
 
