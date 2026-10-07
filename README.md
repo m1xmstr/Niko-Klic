@@ -46,8 +46,8 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 32 | [Klic Catches the Output!](episodes/32.md) | output | [Watch](https://youtube.com/shorts/P4RcQ6qRVec) |
 | 33 | [Why Won’t It Ring? Klic’s Event Listener](episodes/33.md) | event listeners | Prepared |
 | 34 | [Who Can Open Klic's Art? Permissions](episodes/34.md) | permissions | [Watch](https://youtube.com/shorts/K5iRTslmD5s) |
-| 35 | [Three Clicks, Three Stars? Repeated Events](episodes/35.md) | repeated events | Scheduled Oct 07 05:20 PM CT |
-| 36 | [Klic Cannot Stop Hopping! The Forever Loop](episodes/36.md) | forever loop | Scheduled Oct 07 06:00 PM CT |
+| 35 | [Three Clicks, Three Stars? Repeated Events](episodes/35.md) | repeated events | [Watch](https://www.youtube.com/shorts/5EHdW7Bfpac) |
+| 36 | [Klic Cannot Stop Hopping! The Forever Loop](episodes/36.md) | forever loop | [Watch](https://www.youtube.com/shorts/ExzmqzCsWj0) |
 | 37 | [Klic Drops the Code! A Smarter Loop](episodes/37.md) | efficient code | Scheduled Oct 07 06:40 PM CT |
 | 38 | [Klic Left It Open! Lock the Screen](episodes/38.md) | screen lock | Scheduled Oct 07 07:20 PM CT |
 | 39 | [Will Klic's Drawing Disappear? Save It](episodes/39.md) | saving | Scheduled Oct 07 08:00 PM CT |
