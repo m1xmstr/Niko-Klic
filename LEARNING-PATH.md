@@ -20,3 +20,7 @@ Later topic families include Python and debugging; operating systems and careful
 Ask “What did the code tell Klic to do?” and “What changed?” Encourage prediction and explanation, not speed. The guides do not require children to create accounts or enter personal information. Security stories use fictional examples and trusted-adult help, never real passwords or private family information.
 
 Code City blocks are pseudocode. A bug is a mistake in a program; it is not automatically a virus. AI can make mistakes, so later AI stories will include checking and human judgment.
+
+## Pause and review
+
+After the first twenty lessons, use [Understanding What We’ve Learned](episodes/21.md) to revisit every term with an example. Pick a favorite, explain it to a grown-up, and act it out together. The review links back to each original lesson.
