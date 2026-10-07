@@ -36,6 +36,9 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 22 | [The Missing Command](episodes/22.md) | debugging | Prepared |
 | 23 | [Pick One From the List!](episodes/23.md) | indexing | Prepared |
 | 24 | [Don’t Share That!](episodes/24.md) | personal information | Prepared |
+| 25 | [What’s in the Box?](episodes/25.md) | variables | Prepared |
+| 26 | [Name That Variable!](episodes/26.md) | variable names | Prepared |
+| 27 | [Call the Function!](episodes/27.md) | function calls | Prepared |
 
 ## About the series
 
