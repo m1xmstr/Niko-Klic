@@ -33,7 +33,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 19 | [Klic’s Reusable Trick](episodes/19.md) | reuse | [Watch](https://www.youtube.com/shorts/jmzh3Ytw1dg) |
 | 20 | [One Step at a Time](episodes/20.md) | algorithm | [Watch](https://www.youtube.com/shorts/Gm4eJORpUp4) |
 | 21 | [Understanding What We’ve Learned](episodes/21.md) | review | [Watch](https://www.youtube.com/watch?v=UwPC3yVyELY) |
-| 22 | [The Missing Command](episodes/22.md) | debugging | Prepared |
+| 22 | [The Missing Command](episodes/22.md) | debugging | [Watch](https://youtube.com/shorts/JyysqBYWOZs) |
 | 23 | [Pick One From the List!](episodes/23.md) | indexing | Prepared |
 | 24 | [Don’t Share That!](episodes/24.md) | personal information | Prepared |
 | 25 | [What’s in the Box?](episodes/25.md) | variables | Prepared |
