@@ -39,8 +39,22 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 25 | [What’s in the Box?](episodes/25.md) | variables | Prepared |
 | 26 | [Name That Variable!](episodes/26.md) | variable names | Prepared |
 | 27 | [Call the Function!](episodes/27.md) | function calls | Prepared |
-
-| 28 | [Will Klic Cross? A Branching Puzzle!](episodes/28.md) | branching | Scheduled Oct 7, 12:00 PM Central |
+| 28 | [Will Klic Cross? A Branching Puzzle!](episodes/28.md) | branching | Prepared |
+| 29 | [A Prize Wants a Secret? Spot the Phishing Trick](episodes/29.md) | phishing | Prepared |
+| 30 | [Can Klic Reach Ten? Count with Integers](episodes/30.md) | integers | Prepared |
+| 31 | [Half a Jar? Klic Finds a Decimal](episodes/31.md) | decimals | Prepared |
+| 32 | [Where Did the Star Go? Find the Output](episodes/32.md) | output | Prepared |
+| 33 | [Why Won’t It Ring? Klic’s Event Listener](episodes/33.md) | event listeners | Prepared |
+| 34 | [Everyone Can See It? Check Permissions](episodes/34.md) | permissions | Prepared |
+| 35 | [Three Clicks, How Many Stars? Repeated Events](episodes/35.md) | repeated events | Prepared |
+| 36 | [Klic Cannot Stop! An Infinite Loop](episodes/36.md) | infinite loops | Prepared |
+| 37 | [Too Many Blocks? Try Efficient Code](episodes/37.md) | efficient code | Prepared |
+| 38 | [Wait, It’s Unlocked! Device Security](episodes/38.md) | device security | Prepared |
+| 39 | [Will My Drawing Stay? Discover Storage](episodes/39.md) | storage | Prepared |
+| 40 | [Which Path Finds the Star? A Decision Tree](episodes/40.md) | decision trees | Prepared |
+| 41 | [My Drawing Is Gone! Try Recovery](episodes/41.md) | recovery | Prepared |
+| 42 | [The App Is Stuck! Try Software Updates](episodes/42.md) | software updates | Prepared |
+| 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | Prepared |
 
 ## About the series
 
