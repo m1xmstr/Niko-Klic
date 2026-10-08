@@ -55,9 +55,10 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 41 | [Klic Lost His Drawing! Restore a Backup](episodes/41.md) | backup | [Watch](https://www.youtube.com/shorts/Z1axxukVh9I) |
 | 42 | [Klic's App Is Stuck! Time for an Update](episodes/42.md) | software update | [Watch](https://www.youtube.com/shorts/dPa7bK0Bt6s) |
 | 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | [Watch](https://www.youtube.com/watch?v=3k521FXrNtg) |
+| 44 | [Can One Python Line Fill Klic's Blank Sign?](episodes/44.md) | Python print | [Watch](https://www.youtube.com/shorts/qvIf6xWC_rQ) |
 
 ## About the series
 
-The stories use original synthetic character voices, generated illustrations, and animated lesson objects. They introduce real terminology with simplified visual pseudocode. Longer explanations and adult-supported activities help turn a quick story into learning.
+The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; from Episode 44, lessons show runnable Python, separate terminal output, and changed examples. Longer explanations and adult-supported activities help turn a quick story into learning.
 
 This public repository contains educational companion material. Production artwork, voice files, and production systems are managed separately. No commercial links or advertising are part of the show.
