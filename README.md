@@ -58,8 +58,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 44 | [Can One Python Line Fill Klic's Blank Sign?](episodes/44.md) | Python print | [Watch](https://www.youtube.com/shorts/qvIf6xWC_rQ) |
 | 45 | [One Missing Quote Stops Python!](episodes/45.md) | syntax errors | [Watch](https://www.youtube.com/shorts/L9pZu6YMfFc) |
 | 46 | [Why Is Klic's Variable Still Zero?](episodes/46.md) | variable updates | [Watch](https://www.youtube.com/shorts/r1_ZCHbQBNM) |
-
-| 47 | [Did Python Add or Join? Strings vs Numbers](episodes/47.md) | data types | Prepared |
+| 47 | [Did Python Add or Join? Strings vs Numbers](episodes/47.md) | data types | [Watch](https://www.youtube.com/shorts/b-Z3MpOYP2M) |
 
 ## About the series
 
