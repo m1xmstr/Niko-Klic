@@ -60,9 +60,19 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 46 | [Why Is Klic's Variable Still Zero?](episodes/46.md) | variable updates | [Watch](https://www.youtube.com/shorts/r1_ZCHbQBNM) |
 | 47 | [Did Python Add or Join? Strings vs Numbers](episodes/47.md) | data types | [Watch](https://www.youtube.com/shorts/b-Z3MpOYP2M) |
 
+## Upcoming companion guides
+
+These guides are ready to read; their videos have not been released.
+
+| Episode | Guide | Concept | Video |
+| --- | --- | --- | --- |
 | 48 | [Does Klic Have Enough? Python Comparisons](episodes/48.md) | comparisons | Video pending |
 | 49 | [Go or Wait? Python Chooses With If and Else](episodes/49.md) | if/else | Video pending |
 | 50 | [Three Checks, One Python Loop!](episodes/50.md) | for loops | Video pending |
+| 51 | [Can One Function Cheer for Both Friends?](episodes/51.md) | parameters | Video pending |
+| 52 | [Where Did Our Python Program Go?](episodes/52.md) | saving source files | Video pending |
+| 53 | [Does Our Counter Really Work? Test It!](episodes/53.md) | testing | Video pending |
+| 54 | [Klic Drops His Toys! Build a Python List](episodes/54.md) | lists | Video pending |
 
 ## About the series
 
