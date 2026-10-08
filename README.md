@@ -51,9 +51,9 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 37 | [Klic Drops the Code! A Smarter Loop](episodes/37.md) | efficient code | [Watch](https://www.youtube.com/shorts/D7f1kIIzSno) |
 | 38 | [Klic Left It Open! Lock the Screen](episodes/38.md) | screen lock | [Watch](https://www.youtube.com/shorts/CN8Wxee8BJg) |
 | 39 | [Will Klic's Drawing Disappear? Save It](episodes/39.md) | saving | [Watch](https://www.youtube.com/shorts/0pMLrTeac7E) |
-| 40 | [Which Door Hides the Star? Decision Tree](episodes/40.md) | decision tree | Scheduled Oct 07 08:40 PM CT |
-| 41 | [Klic Lost His Drawing! Restore a Backup](episodes/41.md) | backup | Scheduled Oct 07 09:20 PM CT |
-| 42 | [Klic's App Is Stuck! Time for an Update](episodes/42.md) | software update | Scheduled Oct 07 10:00 PM CT |
+| 40 | [Which Door Hides the Star? Decision Tree](episodes/40.md) | decision tree | [Watch](https://www.youtube.com/shorts/bJ5oaSI594U) |
+| 41 | [Klic Lost His Drawing! Restore a Backup](episodes/41.md) | backup | [Watch](https://www.youtube.com/shorts/Z1axxukVh9I) |
+| 42 | [Klic's App Is Stuck! Time for an Update](episodes/42.md) | software update | [Watch](https://www.youtube.com/shorts/dPa7bK0Bt6s) |
 | 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | Scheduled Oct 08 08:00 AM CT |
 
 ## About the series
