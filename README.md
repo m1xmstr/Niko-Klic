@@ -73,6 +73,7 @@ These guides are ready to read; their videos have not been released.
 | 52 | [Where Did Our Python Program Go?](episodes/52.md) | saving source files | Video pending |
 | 53 | [Does Our Counter Really Work? Test It!](episodes/53.md) | testing | Video pending |
 | 54 | [Klic Drops His Toys! Build a Python List](episodes/54.md) | lists | Video pending |
+| 55 | [Which Toy Is Zero? Python Indexing](episodes/55.md) | indexing | Video pending |
 
 ## About the series
 
