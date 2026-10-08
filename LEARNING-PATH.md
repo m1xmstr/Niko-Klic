@@ -24,3 +24,7 @@ Code City blocks are pseudocode. A bug is a mistake in a program; it is not auto
 ## Pause and review
 
 After the first twenty lessons, use [Understanding What We’ve Learned](episodes/21.md) to revisit every term with an example. Pick a favorite, explain it to a grown-up, and act it out together. The review links back to each original lesson.
+
+## From stories to real Python
+
+Use [printing text](episodes/44.md), [fixing syntax](episodes/45.md), [updating variables](episodes/46.md), and [strings versus numbers](episodes/47.md) first. The next prepared guides connect [comparisons](episodes/48.md) to [if/else decisions](episodes/49.md), then [for loops](episodes/50.md). These show runnable Python 3 and exact terminal output; the README marks videos that are still pending. Copy the code with a grown-up, predict its result, then change one value.

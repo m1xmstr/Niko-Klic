@@ -60,6 +60,10 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 46 | [Why Is Klic's Variable Still Zero?](episodes/46.md) | variable updates | [Watch](https://www.youtube.com/shorts/r1_ZCHbQBNM) |
 | 47 | [Did Python Add or Join? Strings vs Numbers](episodes/47.md) | data types | [Watch](https://www.youtube.com/shorts/b-Z3MpOYP2M) |
 
+| 48 | [Does Klic Have Enough? Python Comparisons](episodes/48.md) | comparisons | Video pending |
+| 49 | [Go or Wait? Python Chooses With If and Else](episodes/49.md) | if/else | Video pending |
+| 50 | [Three Checks, One Python Loop!](episodes/50.md) | for loops | Video pending |
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; from Episode 44, lessons show runnable Python, separate terminal output, and changed examples. Longer explanations and adult-supported activities help turn a quick story into learning.
