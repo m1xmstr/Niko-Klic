@@ -54,7 +54,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 40 | [Which Door Hides the Star? Decision Tree](episodes/40.md) | decision tree | [Watch](https://www.youtube.com/shorts/bJ5oaSI594U) |
 | 41 | [Klic Lost His Drawing! Restore a Backup](episodes/41.md) | backup | [Watch](https://www.youtube.com/shorts/Z1axxukVh9I) |
 | 42 | [Klic's App Is Stuck! Time for an Update](episodes/42.md) | software update | [Watch](https://www.youtube.com/shorts/dPa7bK0Bt6s) |
-| 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | Scheduled Oct 08 08:00 AM CT |
+| 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | [Watch](https://www.youtube.com/watch?v=3k521FXrNtg) |
 
 ## About the series
 
