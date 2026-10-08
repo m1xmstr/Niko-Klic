@@ -48,9 +48,9 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 34 | [Who Can Open Klic's Art? Permissions](episodes/34.md) | permissions | [Watch](https://youtube.com/shorts/K5iRTslmD5s) |
 | 35 | [Three Clicks, Three Stars? Repeated Events](episodes/35.md) | repeated events | [Watch](https://www.youtube.com/shorts/5EHdW7Bfpac) |
 | 36 | [Klic Cannot Stop Hopping! The Forever Loop](episodes/36.md) | forever loop | [Watch](https://www.youtube.com/shorts/ExzmqzCsWj0) |
-| 37 | [Klic Drops the Code! A Smarter Loop](episodes/37.md) | efficient code | Scheduled Oct 07 06:40 PM CT |
-| 38 | [Klic Left It Open! Lock the Screen](episodes/38.md) | screen lock | Scheduled Oct 07 07:20 PM CT |
-| 39 | [Will Klic's Drawing Disappear? Save It](episodes/39.md) | saving | Scheduled Oct 07 08:00 PM CT |
+| 37 | [Klic Drops the Code! A Smarter Loop](episodes/37.md) | efficient code | [Watch](https://www.youtube.com/shorts/D7f1kIIzSno) |
+| 38 | [Klic Left It Open! Lock the Screen](episodes/38.md) | screen lock | [Watch](https://www.youtube.com/shorts/CN8Wxee8BJg) |
+| 39 | [Will Klic's Drawing Disappear? Save It](episodes/39.md) | saving | [Watch](https://www.youtube.com/shorts/0pMLrTeac7E) |
 | 40 | [Which Door Hides the Star? Decision Tree](episodes/40.md) | decision tree | Scheduled Oct 07 08:40 PM CT |
 | 41 | [Klic Lost His Drawing! Restore a Backup](episodes/41.md) | backup | Scheduled Oct 07 09:20 PM CT |
 | 42 | [Klic's App Is Stuck! Time for an Update](episodes/42.md) | software update | Scheduled Oct 07 10:00 PM CT |
