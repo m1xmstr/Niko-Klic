@@ -57,7 +57,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 43 | [Understanding What We Learned: Coding and Online Safety](episodes/43.md) | review | [Watch](https://www.youtube.com/watch?v=3k521FXrNtg) |
 | 44 | [Can One Python Line Fill Klic's Blank Sign?](episodes/44.md) | Python print | [Watch](https://www.youtube.com/shorts/qvIf6xWC_rQ) |
 | 45 | [One Missing Quote Stops Python!](episodes/45.md) | syntax errors | [Watch](https://www.youtube.com/shorts/L9pZu6YMfFc) |
-| 46 | [Why Is Klic's Variable Still Zero?](episodes/46.md) | variable updates | Prepared |
+| 46 | [Why Is Klic's Variable Still Zero?](episodes/46.md) | variable updates | [Watch](https://www.youtube.com/shorts/r1_ZCHbQBNM) |
 
 ## About the series
 
