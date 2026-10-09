@@ -73,7 +73,6 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 59 | [Where Is Blue Hiding? Python Dictionary](episodes/59.md) | dictionaries | [Watch](https://youtube.com/shorts/LDdfU6d5-yk) |
 | 60 | [Klic Changes His Favorite! Dictionary Update](episodes/60.md) | dictionary update | [Watch](https://youtube.com/shorts/yGr-16GfY9s) |
 | 61 | [Our First Python Toolbox! Coding Review 44–60](episodes/61.md) | Python review | [Watch](https://youtube.com/watch?v=DiElH2ZeijQ) |
-
 | 62 | [Both Ready? Python and Opens the Trail](episodes/62.md) | logical and | Video release pending |
 | 63 | [Which Door Does Python Choose? elif](episodes/63.md) | elif | Video release pending |
 | 64 | [Can a Function Send a Number Back? Python return](episodes/64.md) | return | Video release pending |
