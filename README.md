@@ -59,21 +59,20 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 45 | [One Missing Quote Stops Python!](episodes/45.md) | syntax errors | [Watch](https://www.youtube.com/shorts/L9pZu6YMfFc) |
 | 46 | [Why Is Klic's Variable Still Zero?](episodes/46.md) | variable updates | [Watch](https://www.youtube.com/shorts/r1_ZCHbQBNM) |
 | 47 | [Did Python Add or Join? Strings vs Numbers](episodes/47.md) | data types | [Watch](https://www.youtube.com/shorts/b-Z3MpOYP2M) |
-
-## Upcoming companion guides
-
-These guides are ready to read; their videos have not been released.
-
-| Episode | Guide | Concept | Video |
-| --- | --- | --- | --- |
-| 48 | [Does Klic Have Enough? Python Comparisons](episodes/48.md) | comparisons | Video pending |
-| 49 | [Go or Wait? Python Chooses With If and Else](episodes/49.md) | if/else | Video pending |
-| 50 | [Three Checks, One Python Loop!](episodes/50.md) | for loops | Video pending |
-| 51 | [Can One Function Cheer for Both Friends?](episodes/51.md) | parameters | Video pending |
-| 52 | [Where Did Our Python Program Go?](episodes/52.md) | saving source files | Video pending |
-| 53 | [Does Our Counter Really Work? Test It!](episodes/53.md) | testing | Video pending |
-| 54 | [Klic Drops His Toys! Build a Python List](episodes/54.md) | lists | Video pending |
-| 55 | [Which Toy Is Zero? Python Indexing](episodes/55.md) | indexing | Video pending |
+| 48 | [Does Klic Have Enough? Python Comparisons](episodes/48.md) | comparisons | [Watch](https://youtube.com/shorts/RJtys4ygVdQ) |
+| 49 | [Go or Wait? Python Chooses With If and Else](episodes/49.md) | if/else | [Watch](https://youtube.com/shorts/4HZLSwSa-Qk) |
+| 50 | [Three Checks, One Python Loop!](episodes/50.md) | for loops | [Watch](https://youtube.com/shorts/D9WVU_3w6WM) |
+| 51 | [Can One Function Cheer for Both Friends?](episodes/51.md) | parameters | [Watch](https://youtube.com/shorts/u8gUhgPzF_c) |
+| 52 | [Where Did Our Python Program Go?](episodes/52.md) | saving source files | [Watch](https://youtube.com/shorts/6TZQ8J2jTA4) |
+| 53 | [Does Our Counter Really Work? Test It!](episodes/53.md) | testing | [Watch](https://youtube.com/shorts/t66reFonnt8) |
+| 54 | [Klic Drops His Toys! Build a Python List](episodes/54.md) | lists | [Watch](https://youtube.com/shorts/WWEv2X9_OfI) |
+| 55 | [Which Toy Is Zero? Python Indexing](episodes/55.md) | indexing | [Watch](https://youtube.com/shorts/oUprGOD9_5g) |
+| 56 | [One More Toy! Python append](episodes/56.md) | append | [Watch](https://youtube.com/shorts/csFDNV3_ZY8) |
+| 57 | [How Many Fit? Python len](episodes/57.md) | len | [Watch](https://youtube.com/shorts/Xi1fThrhRiA) |
+| 58 | [Every Toy Gets a Turn! Python for](episodes/58.md) | iteration | [Watch](https://youtube.com/shorts/VeP5D5SlLoU) |
+| 59 | [Where Is Blue Hiding? Python Dictionary](episodes/59.md) | dictionaries | [Watch](https://youtube.com/shorts/LDdfU6d5-yk) |
+| 60 | [Klic Changes His Favorite! Dictionary Update](episodes/60.md) | dictionary update | [Watch](https://youtube.com/shorts/yGr-16GfY9s) |
+| 61 | [Our First Python Toolbox! Coding Review 44–60](episodes/61.md) | Python review | [Watch](https://youtube.com/watch?v=DiElH2ZeijQ) |
 
 ## About the series
 
