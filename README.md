@@ -73,10 +73,10 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 59 | [Where Is Blue Hiding? Python Dictionary](episodes/59.md) | dictionaries | [Watch](https://youtube.com/shorts/LDdfU6d5-yk) |
 | 60 | [Klic Changes His Favorite! Dictionary Update](episodes/60.md) | dictionary update | [Watch](https://youtube.com/shorts/yGr-16GfY9s) |
 | 61 | [Our First Python Toolbox! Coding Review 44–60](episodes/61.md) | Python review | [Watch](https://youtube.com/watch?v=DiElH2ZeijQ) |
-| 62 | [Both Ready? Python and Opens the Trail](episodes/62.md) | logical and | Video release pending |
-| 63 | [Which Door Does Python Choose? elif](episodes/63.md) | elif | Video release pending |
-| 64 | [Can a Function Send a Number Back? Python return](episodes/64.md) | return | Video release pending |
-| 65 | [The Numbers Are Mixed Up! Python sorted](episodes/65.md) | sorted | Video release pending |
+| 62 | [Both Ready? Python and Opens the Trail](episodes/62.md) | logical and | [Watch](https://youtube.com/shorts/cHgJ6BPnFFw) |
+| 63 | [Three Doors, One Choice! Python elif](episodes/63.md) | elif | [Watch](https://youtube.com/shorts/mxb65ljO7Gc) |
+| 64 | [Can a Function Send a Number Back? Python return](episodes/64.md) | return | [Watch](https://youtube.com/shorts/xdlI_BGsHTA) |
+| 65 | [The Numbers Are Mixed Up! Python sorted](episodes/65.md) | sorted | [Watch](https://youtube.com/shorts/eCBMNQcdlV4) |
 | 66 | [Which Nickname Appears? Python Dictionary Lookup](episodes/66.md) | dictionary lookup | Video release pending |
 
 ## About the series
