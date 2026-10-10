@@ -94,9 +94,12 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | Scheduled 2026-10-12T10:30:00-05:00 |
 | 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | Scheduled 2026-10-12T10:40:00-05:00 |
 | 83 | [It Runs, But Five Is Wrong! Python Debugging](episodes/83.md) | Debug a logic error by comparing expected and actual output | Scheduled 2026-10-12T10:50:00-05:00 |
-| 85 | [Does Double Really Double? Python assert Tests](episodes/85.md) | Use assert to check a known function result before another call | Video in preparation |
-| 86 | [Start With the Same Sample! Python Test Fixtures](episodes/86.md) | Use fixed fictional test data to reproduce missing and present dictionary values | Video in preparation |
 | 84 | [Where Did the Old Number Go? Trace Python Variables](episodes/84.md) | Trace variable reassignment one instruction at a time | Scheduled 2026-10-13T10:00:00-05:00 |
+| 85 | [Does Double Really Double? Python assert Tests](episodes/85.md) | Use assert to check a known function result before another call | Scheduled 2026-10-13T10:10:00-05:00 |
+| 86 | [Start With the Same Sample! Python Test Fixtures](episodes/86.md) | Use fixed fictional test data to reproduce missing and present dictionary values | Scheduled 2026-10-13T10:20:00-05:00 |
+| 87 | [Does Exactly Five Count? Python Boundary Tests](episodes/87.md) | Test a comparison exactly at its boundary and just below it | Video in preparation |
+| 88 | [No Brush in the List! Python Empty Checks](episodes/88.md) | Check for an empty list before reading its first item | Video in preparation |
+| 89 | [Too Many Cards for Five Slots! Python min](episodes/89.md) | Use min to cap a nonnegative count at a fixed capacity | Video in preparation |
 
 ## Five-lesson companion reviews
 
