@@ -1,6 +1,6 @@
 # Can Python Pack Our Badge Kit? | Nico & Klic Review 72–76
 
-Video in preparation. This guide contains executed code, not a claim of publication.
+Natively scheduled for 2026-10-11T13:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
 
 Practice five Python ideas, then combine them in **our pretend badge packing desk**. All labels, equipment and decisions are fictional.
 
