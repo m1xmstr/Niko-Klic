@@ -97,10 +97,12 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 84 | [Where Did the Old Number Go? Trace Python Variables](episodes/84.md) | Trace variable reassignment one instruction at a time | Scheduled 2026-10-13T10:00:00-05:00 |
 | 85 | [Does Double Really Double? Python assert Tests](episodes/85.md) | Use assert to check a known function result before another call | Scheduled 2026-10-13T10:10:00-05:00 |
 | 86 | [Start With the Same Sample! Python Test Fixtures](episodes/86.md) | Use fixed fictional test data to reproduce missing and present dictionary values | Scheduled 2026-10-13T10:20:00-05:00 |
-| 89 | [Too Many Cards for Five Slots! Python min](episodes/89.md) | Use min to cap a nonnegative count at a fixed capacity | Video in preparation |
 | 87 | [Does Exactly Five Count? Python Boundary Tests](episodes/87.md) | Test a comparison exactly at its boundary and just below it | Scheduled 2026-10-13T10:30:00-05:00 |
 | 88 | [No Brush in the List! Python Empty Checks](episodes/88.md) | Check for an empty list before reading its first item | Scheduled 2026-10-13T10:40:00-05:00 |
-| 90 | [Stop Repeating That Rule! Python Refactoring](episodes/90.md) | Extract repeated arithmetic into one function while preserving output | Video in preparation |
+| 91 | [What Does This Number Mean? Python Variable Names](episodes/91.md) | Replace vague variable names with meaningful snake_case names including units | Video in preparation |
+| 89 | [Too Many Cards for Five Slots! Python min](episodes/89.md) | Use min to cap a nonnegative count at a fixed capacity | Scheduled 2026-10-13T10:50:00-05:00 |
+| 90 | [Stop Repeating That Rule! Python Refactoring](episodes/90.md) | Extract repeated arithmetic into one function while preserving output | Scheduled 2026-10-14T10:00:00-05:00 |
+| 92 | [What Does Ready Mean? Python Named Conditions](episodes/92.md) | Give a compound Boolean expression a meaningful name before using its result | Video in preparation |
 
 ## Five-lesson companion reviews
 
