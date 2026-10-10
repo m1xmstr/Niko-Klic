@@ -83,16 +83,17 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 69 | [Rain or No Rain? Python not Flips the Answer](episodes/69.md) | Boolean not | [Watch](https://youtube.com/shorts/acnuWsJD-LY) |
 | 70 | [Either Ticket Works! Python or](episodes/70.md) | Boolean or | [Watch](https://youtube.com/shorts/qcIKJ9ZXA44) |
 | 71 | [Does Python Run Our Note? Code Comments](episodes/71.md) | Python line comments with # | Scheduled Oct 11, 10:00 AM Central |
-| 72 | [Will the Countdown Stop? Python while](episodes/72.md) | A terminating Python while loop | Video in preparation |
-| 73 | [Found Blue! Why Python break Stops the Search](episodes/73.md) | Stopping a for loop with break | Video in preparation |
-| 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | Video in preparation |
-| 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | Video in preparation |
+| 72 | [Will the Countdown Stop? Python while](episodes/72.md) | A terminating Python while loop | Video natively scheduled for **2026-10-11T10:10:00-05:00 (America/Chicago)** |
+| 73 | [Found Blue! Why Python break Stops the Search](episodes/73.md) | Stopping a for loop with break | Video natively scheduled for **2026-10-11T10:20:00-05:00 (America/Chicago)** |
+| 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | Video natively scheduled for **2026-10-11T10:30:00-05:00 (America/Chicago)** |
+| 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | Video natively scheduled for **2026-10-11T10:40:00-05:00 (America/Chicago)** |
+| 76 | [Five Badges, Two Per Sleeve! Python import](episodes/76.md) | Importing a standard-library function through math | Video natively scheduled for **2026-10-11T10:50:00-05:00 (America/Chicago)** |
 
 ## Five-lesson companion reviews
 
 Each new long review revisits five individual Shorts and connects their ideas in a working project.
 
-- [Python explorer planner: lessons 62–66](reviews/review-62-66.md) — guide available; video in preparation.
+- [Python explorer planner: lessons 62–66](reviews/review-62-66.md) — [Watch the long review](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
 
 ## About the series
 

@@ -1,5 +1,7 @@
 # Can Five Python Ideas Plan Our Adventure? | Nico & Klic Review 62–66
 
+[Watch the review](https://youtu.be/eCDvgX3h_Rw) — public with manual English captions.
+
 Practice five Python ideas, then combine them in one explorer planner. All names, routes and equipment checks are fictional.
 
 ## Prerequisites
