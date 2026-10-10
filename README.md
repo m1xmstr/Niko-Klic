@@ -103,11 +103,11 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 90 | [Stop Repeating That Rule! Python Refactoring](episodes/90.md) | Extract repeated arithmetic into one function while preserving output | Scheduled 2026-10-14T10:00:00-05:00 |
 | 91 | [What Does This Number Mean? Python Variable Names](episodes/91.md) | Replace vague variable names with meaningful snake_case names including units | Scheduled 2026-10-14T10:10:00-05:00 |
 | 92 | [What Does Ready Mean? Python Named Conditions](episodes/92.md) | Give a compound Boolean expression a meaningful name before using its result | Scheduled 2026-10-14T10:20:00-05:00 |
-| 95 | [What Does the Ending Tell Us? Python File Suffix](episodes/95.md) | Read a path suffix and compare it with a known extension without assuming file safety | Video in preparation |
 | 93 | [Which Folder Holds the Note? Python Path](episodes/93.md) | Read the filename and parent folder from a relative Python Path | Scheduled 2026-10-14T10:30:00-05:00 |
-| 96 | [Give Your Files a Home! Python mkdir](episodes/96.md) | Create and check a practice folder using pathlib | Video in preparation |
-| 97 | [Keep the Original! Python copyfile](episodes/97.md) | Copy a practice file and reopen the copied contents | Video in preparation |
 | 94 | [Is the Saved Note Really There? Python exists](episodes/94.md) | Create a harmless practice file and check whether two relative paths exist | Scheduled 2026-10-14T10:40:00-05:00 |
+| 95 | [What Does the Ending Tell Us? Python File Suffix](episodes/95.md) | Read a path suffix and compare it with a known extension without assuming file safety | Scheduled 2026-10-14T10:50:00-05:00 |
+| 96 | [Give Your Files a Home! Python mkdir](episodes/96.md) | Create and check a practice folder using pathlib | Scheduled 2026-10-15T10:00:00-05:00 |
+| 97 | [Keep the Original! Python copyfile](episodes/97.md) | Copy a practice file and reopen the copied contents | Scheduled 2026-10-15T10:10:00-05:00 |
 
 ## Five-lesson companion reviews
 
