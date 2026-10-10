@@ -93,9 +93,10 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 79 | [Which Saved Note Will Appear? Python File Reading](episodes/79.md) | Read a selected existing text file | Scheduled 2026-10-12T10:20:00-05:00 |
 | 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | Scheduled 2026-10-12T10:30:00-05:00 |
 | 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | Scheduled 2026-10-12T10:40:00-05:00 |
-| 84 | [Where Did the Old Number Go? Trace Python Variables](episodes/84.md) | Trace variable reassignment one instruction at a time | Video in preparation |
-| 83 | [It Runs, But Five Is Wrong! Python Debugging](episodes/83.md) | Debug a logic error by comparing expected and actual output | Video in preparation |
+| 83 | [It Runs, But Five Is Wrong! Python Debugging](episodes/83.md) | Debug a logic error by comparing expected and actual output | Scheduled 2026-10-12T10:50:00-05:00 |
 | 85 | [Does Double Really Double? Python assert Tests](episodes/85.md) | Use assert to check a known function result before another call | Video in preparation |
+| 86 | [Start With the Same Sample! Python Test Fixtures](episodes/86.md) | Use fixed fictional test data to reproduce missing and present dictionary values | Video in preparation |
+| 84 | [Where Did the Old Number Go? Trace Python Variables](episodes/84.md) | Trace variable reassignment one instruction at a time | Scheduled 2026-10-13T10:00:00-05:00 |
 
 ## Five-lesson companion reviews
 
@@ -106,7 +107,7 @@ Each new long review revisits five individual Shorts and connects their ideas in
 - [Workshop project: lessons 67–71](reviews/review-67-71.md) — guide available; see the guide for its verified release schedule.
 - [Badge packing project: lessons 72–76](reviews/review-72-76.md) — guide available; see the guide for its verified release schedule.
 
-- [Saved-note and sharing project: lessons 77–81](reviews/review-77-81.md) — guide available; video in preparation.
+- [Saved-note and sharing project: lessons 77–81](reviews/review-77-81.md) — scheduled October 12, 2026 at noon Central.
 
 ## About the series
 
