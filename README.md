@@ -91,8 +91,8 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 77 | [Can One File Lend Its Function? Python Modules](episodes/77.md) | Importing a function from a sibling Python module | Scheduled 2026-10-12T10:00:00-05:00 |
 | 78 | [Will Our Note Still Be There? Python File Writing](episodes/78.md) | Write a practice text file and reopen it | Scheduled 2026-10-12T10:10:00-05:00 |
 | 79 | [Which Saved Note Will Appear? Python File Reading](episodes/79.md) | Read a selected existing text file | Scheduled 2026-10-12T10:20:00-05:00 |
-| 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | Video in preparation |
-| 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | Video in preparation |
+| 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | Scheduled 2026-10-12T10:30:00-05:00 |
+| 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | Scheduled 2026-10-12T10:40:00-05:00 |
 
 ## Five-lesson companion reviews
 
@@ -100,8 +100,10 @@ Each new long review revisits five individual Shorts and connects their ideas in
 
 - [Python explorer planner: lessons 62–66](reviews/review-62-66.md) — [Watch the long review](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
 
-- [Workshop project: lessons 67–71](reviews/review-67-71.md) — guide available; video in preparation.
-- [Badge packing project: lessons 72–76](reviews/review-72-76.md) — guide available; video in preparation.
+- [Workshop project: lessons 67–71](reviews/review-67-71.md) — guide available; see the guide for its verified release schedule.
+- [Badge packing project: lessons 72–76](reviews/review-72-76.md) — guide available; see the guide for its verified release schedule.
+
+- [Saved-note and sharing project: lessons 77–81](reviews/review-77-81.md) — guide available; video in preparation.
 
 ## About the series
 
