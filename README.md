@@ -95,6 +95,9 @@ Each new long review revisits five individual Shorts and connects their ideas in
 
 - [Python explorer planner: lessons 62–66](reviews/review-62-66.md) — [Watch the long review](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
 
+- [Workshop project: lessons 67–71](reviews/review-67-71.md) — guide available; video in preparation.
+- [Badge packing project: lessons 72–76](reviews/review-72-76.md) — guide available; video in preparation.
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; from Episode 44, lessons show runnable Python, separate terminal output, and changed examples. Longer explanations and adult-supported activities help turn a quick story into learning.
