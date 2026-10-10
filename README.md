@@ -105,6 +105,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 92 | [What Does Ready Mean? Python Named Conditions](episodes/92.md) | Give a compound Boolean expression a meaningful name before using its result | Scheduled 2026-10-14T10:20:00-05:00 |
 | 93 | [Which Folder Holds the Note? Python Path](episodes/93.md) | Read the filename and parent folder from a relative Python Path | Video in preparation |
 | 94 | [Is the Saved Note Really There? Python exists](episodes/94.md) | Create a harmless practice file and check whether two relative paths exist | Video in preparation |
+| 95 | [What Does the Ending Tell Us? Python File Suffix](episodes/95.md) | Read a path suffix and compare it with a known extension without assuming file safety | Video in preparation |
 
 ## Five-lesson companion reviews
 
