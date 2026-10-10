@@ -77,12 +77,16 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 63 | [Three Doors, One Choice! Python elif](episodes/63.md) | elif | [Watch](https://youtube.com/shorts/mxb65ljO7Gc) |
 | 64 | [Can a Function Send a Number Back? Python return](episodes/64.md) | return | [Watch](https://youtube.com/shorts/xdlI_BGsHTA) |
 | 65 | [The Numbers Are Mixed Up! Python sorted](episodes/65.md) | sorted | [Watch](https://youtube.com/shorts/eCBMNQcdlV4) |
-| 66 | [Which Nickname Appears? Python Dictionary Lookup](episodes/66.md) | dictionary lookup | Video release pending |
-| 67 | [Did We Pack the Brush? Python in](episodes/67.md) | List membership with in | Video pending |
-| 68 | [No Color Yet? Python get Has a Backup](episodes/68.md) | Dictionary get with an explicit default | Video pending |
-| 69 | [Rain or No Rain? Python not Flips the Answer](episodes/69.md) | Boolean not | Video pending |
-| 70 | [Either Ticket Works! Python or](episodes/70.md) | Boolean or | Video pending |
-| 71 | [Does Python Run Our Note? Code Comments](episodes/71.md) | Python line comments with # | Video pending |
+| 66 | [Which Nickname Appears? Python Dictionary Lookup](episodes/66.md) | dictionary lookup | [Watch](https://youtube.com/shorts/aUPBlr19wXk) |
+| 67 | [Did We Pack the Brush? Python in](episodes/67.md) | List membership with in | [Watch](https://youtube.com/shorts/koh9N3ZFHBY) |
+| 68 | [No Color Yet? Python get Has a Backup](episodes/68.md) | Dictionary get with an explicit default | [Watch](https://youtube.com/shorts/mo1W3Rlw0vM) |
+| 69 | [Rain or No Rain? Python not Flips the Answer](episodes/69.md) | Boolean not | [Watch](https://youtube.com/shorts/acnuWsJD-LY) |
+| 70 | [Either Ticket Works! Python or](episodes/70.md) | Boolean or | [Watch](https://youtube.com/shorts/qcIKJ9ZXA44) |
+| 71 | [Does Python Run Our Note? Code Comments](episodes/71.md) | Python line comments with # | Scheduled Oct 11, 10:00 AM Central |
+| 72 | [Will the Countdown Stop? Python while](episodes/72.md) | A terminating Python while loop | Video in preparation |
+| 73 | [Found Blue! Why Python break Stops the Search](episodes/73.md) | Stopping a for loop with break | Video in preparation |
+| 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | Video in preparation |
+| 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | Video in preparation |
 
 ## About the series
 
