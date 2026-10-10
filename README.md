@@ -113,27 +113,31 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 100 | [Same Host, Which Port? Python URL Ports](episodes/100.md) | Read an explicit port from a fictional URL | Scheduled 2026-10-15T10:40:00-05:00 |
 | 101 | [What Does HTTPS Tell Us? Python URL Schemes](episodes/101.md) | Read a URL scheme and distinguish a text comparison from verification | Scheduled 2026-10-15T10:50:00-05:00 |
 | 102 | [Choose What to Share! Python Field Allowlist](episodes/102.md) | Build a smaller dictionary using an explicit list of allowed keys | Scheduled 2026-10-16T10:00:00-05:00 |
-| 109 | [Half a Unit Counts Too! Python float](episodes/109.md) | Convert decimal text before arithmetic | Video in preparation |
-| 110 | [Which Whole Number Is Closer? Python round](episodes/110.md) | Round a measurement to a whole number | Video in preparation |
-| 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | Video in preparation |
-| 112 | [Does the Name Start Right? Python startswith](episodes/112.md) | Check a fictional filename prefix | Video in preparation |
-| 108 | [Is Five a Word or a Number? Python int](episodes/108.md) | Convert valid integer text before doing arithmetic | Video in preparation |
-| 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | Video in preparation |
 | 104 | [Too Much Space! Python strip](episodes/104.md) | Trim whitespace from both ends of a string | Scheduled 2026-10-16T10:10:00-05:00 |
 | 105 | [Same Word, Different Case! Python lower](episodes/105.md) | Normalize simple English labels before comparing | Scheduled 2026-10-16T10:20:00-05:00 |
 | 106 | [One Label, Two Pieces! Python split](episodes/106.md) | Split comma-separated practice text into a list | Scheduled 2026-10-16T10:30:00-05:00 |
 | 107 | [Build One Clear Label! Python join](episodes/107.md) | Join a list of strings with a chosen separator | Scheduled 2026-10-16T10:40:00-05:00 |
+| 108 | [Is Five a Word or a Number? Python int](episodes/108.md) | Convert valid integer text before doing arithmetic | Scheduled 2026-10-16T10:50:00-05:00 |
+| 109 | [Half a Unit Counts Too! Python float](episodes/109.md) | Convert decimal text before arithmetic | Scheduled 2026-10-17T10:00:00-05:00 |
+| 110 | [Which Whole Number Is Closer? Python round](episodes/110.md) | Round a measurement to a whole number | Scheduled 2026-10-17T10:10:00-05:00 |
+| 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | Scheduled 2026-10-17T10:20:00-05:00 |
+| 112 | [Does the Name Start Right? Python startswith](episodes/112.md) | Check a fictional filename prefix | Scheduled 2026-10-17T10:30:00-05:00 |
+| 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | Scheduled 2026-10-17T10:40:00-05:00 |
 
 ## Five-lesson companion reviews
 
-Each new long review revisits five individual Shorts and connects their ideas in a working project.
+Each original long review revisits five individual Shorts and connects them in a working Python project. Scheduled videos become public on their release date.
 
-- [Python explorer planner: lessons 62–66](reviews/review-62-66.md) — [Watch the long review](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
-
-- [Workshop project: lessons 67–71](reviews/review-67-71.md) — guide available; see the guide for its verified release schedule.
-- [Badge packing project: lessons 72–76](reviews/review-72-76.md) — guide available; see the guide for its verified release schedule.
-
-- [Saved-note and sharing project: lessons 77–81](reviews/review-77-81.md) — scheduled October 12, 2026 at noon Central.
+- [Can Five Python Ideas Plan Our Adventure? | Nico & Klic Review 62–66](reviews/review-62-66.md) — [Watch](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
+- [Can Python Get Our Workshop Ready? | Nico & Klic Review 67–71](reviews/review-67-71.md) — Scheduled 2026-10-11T12:00:00-05:00 (Central).
+- [Can Python Pack Our Badge Kit? | Nico & Klic Review 72–76](reviews/review-72-76.md) — Scheduled 2026-10-11T13:00:00-05:00 (Central).
+- [Can Python Save Our Picnic Plan? | Nico & Klic Review 77–81](reviews/review-77-81.md) — Scheduled 2026-10-12T12:00:00-05:00 (Central).
+- [Can We Trust This Python Answer? | Nico & Klic Review 83–87](reviews/review-83-87.md) — Scheduled 2026-10-13T12:00:00-05:00 (Central).
+- [Can Clear Python Code Plan Our Activity? | Nico & Klic Review 88–92](reviews/review-88-92.md) — Scheduled 2026-10-14T12:00:00-05:00 (Central).
+- [Where Did Our File Go? Python File Skills | Nico & Klic Review 93–97](reviews/review-93-97.md) — Scheduled 2026-10-15T12:00:00-05:00 (Central).
+- [What Does This Address Really Tell Us? Python Network Basics | Nico & Klic Review 98–102](reviews/review-98-102.md) — Scheduled 2026-10-16T12:00:00-05:00 (Central).
+- [Can Python Tidy Our Craft Labels? Strings and Numbers | Nico & Klic Review 104–108](reviews/review-104-108.md) — Scheduled 2026-10-16T13:00:00-05:00 (Central).
+- [Can Python Build a Clear Workshop Report? | Nico & Klic Review 109–113](reviews/review-109-113.md) — Scheduled 2026-10-17T12:00:00-05:00 (Central).
 
 ## About the series
 
