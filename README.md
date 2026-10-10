@@ -89,8 +89,10 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | Video natively scheduled for **2026-10-11T10:40:00-05:00 (America/Chicago)** |
 | 76 | [Five Badges, Two Per Sleeve! Python import](episodes/76.md) | Importing a standard-library function through math | Video natively scheduled for **2026-10-11T10:50:00-05:00 (America/Chicago)** |
 | 77 | [Can One File Lend Its Function? Python Modules](episodes/77.md) | Importing a function from a sibling Python module | Scheduled 2026-10-12T10:00:00-05:00 |
-| 78 | [Will Our Note Still Be There? Python File Writing](episodes/78.md) | Write a practice text file and reopen it | Video in preparation |
-| 79 | [Which Saved Note Will Appear? Python File Reading](episodes/79.md) | Read a selected existing text file | Video in preparation |
+| 78 | [Will Our Note Still Be There? Python File Writing](episodes/78.md) | Write a practice text file and reopen it | Scheduled 2026-10-12T10:10:00-05:00 |
+| 79 | [Which Saved Note Will Appear? Python File Reading](episodes/79.md) | Read a selected existing text file | Scheduled 2026-10-12T10:20:00-05:00 |
+| 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | Video in preparation |
+| 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | Video in preparation |
 
 ## Five-lesson companion reviews
 
