@@ -108,6 +108,11 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 95 | [What Does the Ending Tell Us? Python File Suffix](episodes/95.md) | Read a path suffix and compare it with a known extension without assuming file safety | Scheduled 2026-10-14T10:50:00-05:00 |
 | 96 | [Give Your Files a Home! Python mkdir](episodes/96.md) | Create and check a practice folder using pathlib | Scheduled 2026-10-15T10:00:00-05:00 |
 | 97 | [Keep the Original! Python copyfile](episodes/97.md) | Copy a practice file and reopen the copied contents | Scheduled 2026-10-15T10:10:00-05:00 |
+| 98 | [Which Part Names the Website? Python URLs](episodes/98.md) | Separate a fictional URL hostname from its path | Scheduled 2026-10-15T10:20:00-05:00 |
+| 101 | [What Does HTTPS Tell Us? Python URL Schemes](episodes/101.md) | Read a URL scheme and distinguish a text comparison from verification | Video in preparation |
+| 99 | [Why Does It Come Back Here? Python Loopback](episodes/99.md) | Recognize a loopback IP address using Python | Scheduled 2026-10-15T10:30:00-05:00 |
+| 100 | [Same Host, Which Port? Python URL Ports](episodes/100.md) | Read an explicit port from a fictional URL | Scheduled 2026-10-15T10:40:00-05:00 |
+| 102 | [Choose What to Share! Python Field Allowlist](episodes/102.md) | Build a smaller dictionary using an explicit list of allowed keys | Video in preparation |
 
 ## Five-lesson companion reviews
 
