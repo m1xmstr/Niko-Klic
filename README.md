@@ -111,10 +111,18 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 98 | [Which Part Names the Website? Python URLs](episodes/98.md) | Separate a fictional URL hostname from its path | Scheduled 2026-10-15T10:20:00-05:00 |
 | 99 | [Why Does It Come Back Here? Python Loopback](episodes/99.md) | Recognize a loopback IP address using Python | Scheduled 2026-10-15T10:30:00-05:00 |
 | 100 | [Same Host, Which Port? Python URL Ports](episodes/100.md) | Read an explicit port from a fictional URL | Scheduled 2026-10-15T10:40:00-05:00 |
-| 102 | [Choose What to Share! Python Field Allowlist](episodes/102.md) | Build a smaller dictionary using an explicit list of allowed keys | Video in preparation |
-| 104 | [Too Much Space! Python strip](episodes/104.md) | Trim whitespace from both ends of a string | Video in preparation |
-| 106 | [One Label, Two Pieces! Python split](episodes/106.md) | Split comma-separated practice text into a list | Video in preparation |
 | 101 | [What Does HTTPS Tell Us? Python URL Schemes](episodes/101.md) | Read a URL scheme and distinguish a text comparison from verification | Scheduled 2026-10-15T10:50:00-05:00 |
+| 102 | [Choose What to Share! Python Field Allowlist](episodes/102.md) | Build a smaller dictionary using an explicit list of allowed keys | Scheduled 2026-10-16T10:00:00-05:00 |
+| 109 | [Half a Unit Counts Too! Python float](episodes/109.md) | Convert decimal text before arithmetic | Video in preparation |
+| 110 | [Which Whole Number Is Closer? Python round](episodes/110.md) | Round a measurement to a whole number | Video in preparation |
+| 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | Video in preparation |
+| 112 | [Does the Name Start Right? Python startswith](episodes/112.md) | Check a fictional filename prefix | Video in preparation |
+| 108 | [Is Five a Word or a Number? Python int](episodes/108.md) | Convert valid integer text before doing arithmetic | Video in preparation |
+| 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | Video in preparation |
+| 104 | [Too Much Space! Python strip](episodes/104.md) | Trim whitespace from both ends of a string | Scheduled 2026-10-16T10:10:00-05:00 |
+| 105 | [Same Word, Different Case! Python lower](episodes/105.md) | Normalize simple English labels before comparing | Scheduled 2026-10-16T10:20:00-05:00 |
+| 106 | [One Label, Two Pieces! Python split](episodes/106.md) | Split comma-separated practice text into a list | Scheduled 2026-10-16T10:30:00-05:00 |
+| 107 | [Build One Clear Label! Python join](episodes/107.md) | Join a list of strings with a chosen separator | Scheduled 2026-10-16T10:40:00-05:00 |
 
 ## Five-lesson companion reviews
 
