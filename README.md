@@ -78,6 +78,11 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 64 | [Can a Function Send a Number Back? Python return](episodes/64.md) | return | [Watch](https://youtube.com/shorts/xdlI_BGsHTA) |
 | 65 | [The Numbers Are Mixed Up! Python sorted](episodes/65.md) | sorted | [Watch](https://youtube.com/shorts/eCBMNQcdlV4) |
 | 66 | [Which Nickname Appears? Python Dictionary Lookup](episodes/66.md) | dictionary lookup | Video release pending |
+| 67 | [Did We Pack the Brush? Python in](episodes/67.md) | List membership with in | Video pending |
+| 68 | [No Color Yet? Python get Has a Backup](episodes/68.md) | Dictionary get with an explicit default | Video pending |
+| 69 | [Rain or No Rain? Python not Flips the Answer](episodes/69.md) | Boolean not | Video pending |
+| 70 | [Either Ticket Works! Python or](episodes/70.md) | Boolean or | Video pending |
+| 71 | [Does Python Run Our Note? Code Comments](episodes/71.md) | Python line comments with # | Video pending |
 
 ## About the series
 
