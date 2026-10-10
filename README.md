@@ -88,6 +88,12 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | Video in preparation |
 | 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | Video in preparation |
 
+## Five-lesson companion reviews
+
+Each new long review revisits five individual Shorts and connects their ideas in a working project.
+
+- [Python explorer planner: lessons 62–66](reviews/review-62-66.md) — guide available; video in preparation.
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; from Episode 44, lessons show runnable Python, separate terminal output, and changed examples. Longer explanations and adult-supported activities help turn a quick story into learning.
