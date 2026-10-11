@@ -1,6 +1,6 @@
 # Can Python Get Our Workshop Ready? | Nico & Klic Review 67–71
 
-Natively scheduled for 2026-10-11T12:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
+[Watch the review](https://www.youtube.com/watch?v=LX6dXxtCKCI) — Published October 11, 2026. Public playback and manual English captions verified.
 
 Practice five Python ideas, then combine them in **our pretend repair desk**. All labels, equipment and decisions are fictional.
 
