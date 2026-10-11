@@ -1,6 +1,6 @@
 # Can Python Pack Our Badge Kit? | Nico & Klic Review 72–76
 
-Natively scheduled for 2026-10-11T13:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
+[Watch the review](https://www.youtube.com/watch?v=0ddR9MjDah8) — Published October 11, 2026. Public playback and manual English captions verified.
 
 Practice five Python ideas, then combine them in **our pretend badge packing desk**. All labels, equipment and decisions are fictional.
 

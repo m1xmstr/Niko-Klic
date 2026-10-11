@@ -130,7 +130,7 @@ Each original long review revisits five individual Shorts and connects them in a
 
 - [Can Five Python Ideas Plan Our Adventure? | Nico & Klic Review 62–66](reviews/review-62-66.md) — [Watch](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
 - [Can Python Get Our Workshop Ready? | Nico & Klic Review 67–71](reviews/review-67-71.md) — [Watch](https://www.youtube.com/watch?v=LX6dXxtCKCI); Public with English captions verified.
-- [Can Python Pack Our Badge Kit? | Nico & Klic Review 72–76](reviews/review-72-76.md) — Scheduled 2026-10-11T13:00:00-05:00 (Central).
+- [Can Python Pack Our Badge Kit? | Nico & Klic Review 72–76](reviews/review-72-76.md) — [Watch](https://www.youtube.com/watch?v=0ddR9MjDah8); Public, playback and manual English captions verified.
 - [Can Python Save Our Picnic Plan? | Nico & Klic Review 77–81](reviews/review-77-81.md) — Scheduled 2026-10-12T12:00:00-05:00 (Central).
 - [Can We Trust This Python Answer? | Nico & Klic Review 83–87](reviews/review-83-87.md) — Scheduled 2026-10-13T12:00:00-05:00 (Central).
 - [Can Clear Python Code Plan Our Activity? | Nico & Klic Review 88–92](reviews/review-88-92.md) — Scheduled 2026-10-14T12:00:00-05:00 (Central).
