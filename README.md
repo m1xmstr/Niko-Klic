@@ -83,11 +83,11 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 69 | [Rain or No Rain? Python not Flips the Answer](episodes/69.md) | Boolean not | [Watch](https://youtube.com/shorts/acnuWsJD-LY) |
 | 70 | [Either Ticket Works! Python or](episodes/70.md) | Boolean or | [Watch](https://youtube.com/shorts/qcIKJ9ZXA44) |
 | 71 | [Does Python Run Our Note? Code Comments](episodes/71.md) | Python line comments with # | [Watch](https://www.youtube.com/watch?v=xBVDPHju6u8) — Public; English captions verified |
-| 72 | [Will the Countdown Stop? Python while](episodes/72.md) | A terminating Python while loop | Video natively scheduled for **2026-10-11T10:10:00-05:00 (America/Chicago)** |
-| 73 | [Found Blue! Why Python break Stops the Search](episodes/73.md) | Stopping a for loop with break | Video natively scheduled for **2026-10-11T10:20:00-05:00 (America/Chicago)** |
-| 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | Video natively scheduled for **2026-10-11T10:30:00-05:00 (America/Chicago)** |
-| 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | Video natively scheduled for **2026-10-11T10:40:00-05:00 (America/Chicago)** |
-| 76 | [Five Badges, Two Per Sleeve! Python import](episodes/76.md) | Importing a standard-library function through math | Video natively scheduled for **2026-10-11T10:50:00-05:00 (America/Chicago)** |
+| 72 | [Will the Countdown Stop? Python while](episodes/72.md) | A terminating Python while loop | [Watch](https://www.youtube.com/watch?v=8-MWkD8euTQ) — Public; English captions verified |
+| 73 | [Found Blue! Why Python break Stops the Search](episodes/73.md) | Stopping a for loop with break | [Watch](https://www.youtube.com/watch?v=IpT5cAgdWno) — Public; English captions verified |
+| 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | [Watch](https://www.youtube.com/watch?v=NIU5QUY3p8c) — Public; English captions verified |
+| 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | [Watch](https://www.youtube.com/watch?v=cj6P3fGN_nM) — Public; English captions verified |
+| 76 | [Five Badges, Two Per Sleeve! Python import](episodes/76.md) | Importing a standard-library function through math | [Watch](https://www.youtube.com/watch?v=BRMhhNkkds8) — Public; English captions verified |
 | 77 | [Can One File Lend Its Function? Python Modules](episodes/77.md) | Importing a function from a sibling Python module | Scheduled 2026-10-12T10:00:00-05:00 |
 | 78 | [Will Our Note Still Be There? Python File Writing](episodes/78.md) | Write a practice text file and reopen it | Scheduled 2026-10-12T10:10:00-05:00 |
 | 79 | [Which Saved Note Will Appear? Python File Reading](episodes/79.md) | Read a selected existing text file | Scheduled 2026-10-12T10:20:00-05:00 |
