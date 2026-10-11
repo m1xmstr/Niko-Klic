@@ -82,7 +82,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 68 | [No Color Yet? Python get Has a Backup](episodes/68.md) | Dictionary get with an explicit default | [Watch](https://youtube.com/shorts/mo1W3Rlw0vM) |
 | 69 | [Rain or No Rain? Python not Flips the Answer](episodes/69.md) | Boolean not | [Watch](https://youtube.com/shorts/acnuWsJD-LY) |
 | 70 | [Either Ticket Works! Python or](episodes/70.md) | Boolean or | [Watch](https://youtube.com/shorts/qcIKJ9ZXA44) |
-| 71 | [Does Python Run Our Note? Code Comments](episodes/71.md) | Python line comments with # | Scheduled Oct 11, 10:00 AM Central |
+| 71 | [Does Python Run Our Note? Code Comments](episodes/71.md) | Python line comments with # | [Watch](https://www.youtube.com/watch?v=xBVDPHju6u8) — Public; English captions verified |
 | 72 | [Will the Countdown Stop? Python while](episodes/72.md) | A terminating Python while loop | Video natively scheduled for **2026-10-11T10:10:00-05:00 (America/Chicago)** |
 | 73 | [Found Blue! Why Python break Stops the Search](episodes/73.md) | Stopping a for loop with break | Video natively scheduled for **2026-10-11T10:20:00-05:00 (America/Chicago)** |
 | 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | Video natively scheduled for **2026-10-11T10:30:00-05:00 (America/Chicago)** |
