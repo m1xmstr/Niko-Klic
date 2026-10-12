@@ -1,6 +1,6 @@
 # Can Python Save Our Picnic Plan? | Nico & Klic Review 77–81
 
-Natively scheduled for 2026-10-12T12:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
+[Watch the review](https://www.youtube.com/watch?v=HV9YRg13b5Y) — Public; playback and manual English captions verified.
 
 Practice five Python ideas, then combine them in **our saved-note and sharing plan**. All labels, equipment and decisions are fictional.
 
