@@ -88,12 +88,12 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 74 | [Skip the Empty Name! Python continue](episodes/74.md) | Skipping one loop iteration with continue | [Watch](https://www.youtube.com/watch?v=NIU5QUY3p8c) — Public; English captions verified |
 | 75 | [Pairs Plus a Spare! Python Functions Work Together](episodes/75.md) | Calling one function from another | [Watch](https://www.youtube.com/watch?v=cj6P3fGN_nM) — Public; English captions verified |
 | 76 | [Five Badges, Two Per Sleeve! Python import](episodes/76.md) | Importing a standard-library function through math | [Watch](https://www.youtube.com/watch?v=BRMhhNkkds8) — Public; English captions verified |
-| 77 | [Can One File Lend Its Function? Python Modules](episodes/77.md) | Importing a function from a sibling Python module | Scheduled 2026-10-12T10:00:00-05:00 |
-| 78 | [Will Our Note Still Be There? Python File Writing](episodes/78.md) | Write a practice text file and reopen it | Scheduled 2026-10-12T10:10:00-05:00 |
-| 79 | [Which Saved Note Will Appear? Python File Reading](episodes/79.md) | Read a selected existing text file | Scheduled 2026-10-12T10:20:00-05:00 |
-| 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | Scheduled 2026-10-12T10:30:00-05:00 |
-| 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | Scheduled 2026-10-12T10:40:00-05:00 |
-| 83 | [It Runs, But Five Is Wrong! Python Debugging](episodes/83.md) | Debug a logic error by comparing expected and actual output | Scheduled 2026-10-12T10:50:00-05:00 |
+| 77 | [Can One File Lend Its Function? Python Modules](episodes/77.md) | Importing a function from a sibling Python module | [Watch](https://youtube.com/shorts/tiSij5Htymk) — Public, English captions verified |
+| 78 | [Will Our Note Still Be There? Python File Writing](episodes/78.md) | Write a practice text file and reopen it | [Watch](https://youtube.com/shorts/c-aJUlTQgY4) — Public, English captions verified |
+| 79 | [Which Saved Note Will Appear? Python File Reading](episodes/79.md) | Read a selected existing text file | [Watch](https://youtube.com/shorts/1Bhze5eJ8kY) — Public, English captions verified |
+| 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | [Watch](https://youtube.com/shorts/HAwNuvRjd7I) — Public, English captions verified |
+| 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | [Watch](https://youtube.com/shorts/ZAtFduRva0I) — Public, English captions verified |
+| 83 | [It Runs, But Five Is Wrong! Python Debugging](episodes/83.md) | Debug a logic error by comparing expected and actual output | [Watch](https://youtube.com/shorts/T5OrZZQzq3s) — Public, English captions verified |
 | 84 | [Where Did the Old Number Go? Trace Python Variables](episodes/84.md) | Trace variable reassignment one instruction at a time | Scheduled 2026-10-13T10:00:00-05:00 |
 | 85 | [Does Double Really Double? Python assert Tests](episodes/85.md) | Use assert to check a known function result before another call | Scheduled 2026-10-13T10:10:00-05:00 |
 | 86 | [Start With the Same Sample! Python Test Fixtures](episodes/86.md) | Use fixed fictional test data to reproduce missing and present dictionary values | Scheduled 2026-10-13T10:20:00-05:00 |
