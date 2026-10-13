@@ -1,6 +1,6 @@
 # Can We Trust This Python Answer? | Nico & Klic Review 83–87
 
-Natively scheduled for 2026-10-13T12:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
+[Watch on YouTube](https://youtube.com/watch?v=y5BkABuAsCw). Public playback and manual English captions verified.
 
 Practice five Python ideas, then combine them in **our tested packing planner**. All labels, equipment and decisions are fictional.
 
