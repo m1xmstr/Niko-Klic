@@ -94,7 +94,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 80 | [Zero Boxes Stop the Run! Python Exceptions](episodes/80.md) | Read a ZeroDivisionError and fix the divisor | [Watch](https://youtube.com/shorts/HAwNuvRjd7I) — Public, English captions verified |
 | 81 | [Can Python Handle Zero Boxes? try and except](episodes/81.md) | Handle a specific exception with try and except | [Watch](https://youtube.com/shorts/ZAtFduRva0I) — Public, English captions verified |
 | 83 | [It Runs, But Five Is Wrong! Python Debugging](episodes/83.md) | Debug a logic error by comparing expected and actual output | [Watch](https://youtube.com/shorts/T5OrZZQzq3s) — Public, English captions verified |
-| 84 | [Where Did the Old Number Go? Trace Python Variables](episodes/84.md) | Trace variable reassignment one instruction at a time | Scheduled 2026-10-13T10:00:00-05:00 |
+| 84 | [Where Did the Old Number Go? Trace Python Variables](episodes/84.md) | Trace variable reassignment one instruction at a time | [Watch](https://www.youtube.com/shorts/TgroFjR-GW4) — Public; playback and manual English verified |
 | 85 | [Does Double Really Double? Python assert Tests](episodes/85.md) | Use assert to check a known function result before another call | Scheduled 2026-10-13T10:10:00-05:00 |
 | 86 | [Start With the Same Sample! Python Test Fixtures](episodes/86.md) | Use fixed fictional test data to reproduce missing and present dictionary values | Scheduled 2026-10-13T10:20:00-05:00 |
 | 87 | [Does Exactly Five Count? Python Boundary Tests](episodes/87.md) | Test a comparison exactly at its boundary and just below it | Scheduled 2026-10-13T10:30:00-05:00 |
