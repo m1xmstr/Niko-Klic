@@ -1,6 +1,6 @@
 # Can Clear Python Code Plan Our Activity? | Nico & Klic Review 88–92
 
-Natively scheduled for 2026-10-14T12:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
+[Watch Review 88–92](https://www.youtube.com/watch?v=2ZHoRmjUpEs) — Public; advancing playback and manual English captions verified October 14, 2026.
 
 Practice five Python ideas, then combine them in **our readable activity planner**. All labels, equipment and decisions are fictional.
 

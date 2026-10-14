@@ -133,7 +133,7 @@ Each original long review revisits five individual Shorts and connects them in a
 - [Can Python Pack Our Badge Kit? | Nico & Klic Review 72–76](reviews/review-72-76.md) — [Watch](https://www.youtube.com/watch?v=0ddR9MjDah8); Public, playback and manual English captions verified.
 - [Can Python Save Our Picnic Plan? | Nico & Klic Review 77–81](reviews/review-77-81.md) — [Watch](https://www.youtube.com/watch?v=HV9YRg13b5Y); Public, playback and manual English captions verified.
 - [Can We Trust This Python Answer? | Nico & Klic Review 83–87](reviews/review-83-87.md) — [Watch](https://youtube.com/watch?v=y5BkABuAsCw); Public, playback and manual English verified.
-- [Can Clear Python Code Plan Our Activity? | Nico & Klic Review 88–92](reviews/review-88-92.md) — Scheduled 2026-10-14T12:00:00-05:00 (Central).
+- [Can Clear Python Code Plan Our Activity? | Nico & Klic Review 88–92](reviews/review-88-92.md) — [Watch](https://www.youtube.com/watch?v=2ZHoRmjUpEs); Public with playback and manual English verified.
 - [Where Did Our File Go? Python File Skills | Nico & Klic Review 93–97](reviews/review-93-97.md) — Scheduled 2026-10-15T12:00:00-05:00 (Central).
 - [What Does This Address Really Tell Us? Python Network Basics | Nico & Klic Review 98–102](reviews/review-98-102.md) — Scheduled 2026-10-16T12:00:00-05:00 (Central).
 - [Can Python Tidy Our Craft Labels? Strings and Numbers | Nico & Klic Review 104–108](reviews/review-104-108.md) — Scheduled 2026-10-16T13:00:00-05:00 (Central).
