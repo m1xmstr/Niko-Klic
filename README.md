@@ -100,7 +100,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 87 | [Does Exactly Five Count? Python Boundary Tests](episodes/87.md) | Test a comparison exactly at its boundary and just below it | [Watch](https://www.youtube.com/shorts/y_57PzS2_V8) — Public; playback and manual English verified |
 | 88 | [No Brush in the List! Python Empty Checks](episodes/88.md) | Check for an empty list before reading its first item | [Watch](https://www.youtube.com/shorts/rNBydSKeuX8) — Public; playback and manual English verified |
 | 89 | [Too Many Cards for Five Slots! Python min](episodes/89.md) | Use min to cap a nonnegative count at a fixed capacity | [Watch](https://www.youtube.com/shorts/79Q2MEclt0E) — Public; playback and manual English verified |
-| 90 | [Stop Repeating That Rule! Python Refactoring](episodes/90.md) | Extract repeated arithmetic into one function while preserving output | Scheduled 2026-10-14T10:00:00-05:00 |
+| 90 | [Stop Repeating That Rule! Python Refactoring](episodes/90.md) | Extract repeated arithmetic into one function while preserving output | [Watch](https://www.youtube.com/shorts/xVO3cJoAzBQ) — Public; playback and manual English verified |
 | 91 | [What Does This Number Mean? Python Variable Names](episodes/91.md) | Replace vague variable names with meaningful snake_case names including units | Scheduled 2026-10-14T10:10:00-05:00 |
 | 92 | [What Does Ready Mean? Python Named Conditions](episodes/92.md) | Give a compound Boolean expression a meaningful name before using its result | Scheduled 2026-10-14T10:20:00-05:00 |
 | 93 | [Which Folder Holds the Note? Python Path](episodes/93.md) | Read the filename and parent folder from a relative Python Path | Scheduled 2026-10-14T10:30:00-05:00 |
