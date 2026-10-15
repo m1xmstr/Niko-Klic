@@ -107,11 +107,11 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 94 | [Is the Saved Note Really There? Python exists](episodes/94.md) | Create a harmless practice file and check whether two relative paths exist | [Watch](https://www.youtube.com/shorts/GXZ-vEvUuEM) — Public; playback and manual English verified |
 | 95 | [What Does the Ending Tell Us? Python File Suffix](episodes/95.md) | Read a path suffix and compare it with a known extension without assuming file safety | [Watch](https://www.youtube.com/shorts/vYZxfCjZocc) — Public; playback and manual English verified |
 | 96 | [Give Your Files a Home! Python mkdir](episodes/96.md) | Create and check a practice folder using pathlib | [Watch](https://www.youtube.com/shorts/DHhYyylyVjo) |
-| 97 | [Keep the Original! Python copyfile](episodes/97.md) | Copy a practice file and reopen the copied contents | Scheduled 2026-10-15T10:10:00-05:00 |
-| 98 | [Which Part Names the Website? Python URLs](episodes/98.md) | Separate a fictional URL hostname from its path | Scheduled 2026-10-15T10:20:00-05:00 |
-| 99 | [Why Does It Come Back Here? Python Loopback](episodes/99.md) | Recognize a loopback IP address using Python | Scheduled 2026-10-15T10:30:00-05:00 |
-| 100 | [Same Host, Which Port? Python URL Ports](episodes/100.md) | Read an explicit port from a fictional URL | Scheduled 2026-10-15T10:40:00-05:00 |
-| 101 | [What Does HTTPS Tell Us? Python URL Schemes](episodes/101.md) | Read a URL scheme and distinguish a text comparison from verification | Scheduled 2026-10-15T10:50:00-05:00 |
+| 97 | [Keep the Original! Python copyfile](episodes/97.md) | Copy a practice file and reopen the copied contents | [Watch](https://www.youtube.com/shorts/rI89aeEDxuU) — Public; playback and manual English verified |
+| 98 | [Which Part Names the Website? Python URLs](episodes/98.md) | Separate a fictional URL hostname from its path | [Watch](https://www.youtube.com/shorts/NaYtox3Jtaw) — Public; playback and manual English verified |
+| 99 | [Why Does It Come Back Here? Python Loopback](episodes/99.md) | Recognize a loopback IP address using Python | [Watch](https://www.youtube.com/shorts/RVXN62OppmM) — Public; playback and manual English verified |
+| 100 | [Same Host, Which Port? Python URL Ports](episodes/100.md) | Read an explicit port from a fictional URL | [Watch](https://www.youtube.com/shorts/SJXeEuX4AmQ) — Public; playback and manual English verified |
+| 101 | [What Does HTTPS Tell Us? Python URL Schemes](episodes/101.md) | Read a URL scheme and distinguish a text comparison from verification | [Watch](https://www.youtube.com/shorts/VjDJkzslbbg) — Public; playback and manual English verified |
 | 102 | [Choose What to Share! Python Field Allowlist](episodes/102.md) | Build a smaller dictionary using an explicit list of allowed keys | Scheduled 2026-10-16T10:00:00-05:00 |
 | 104 | [Too Much Space! Python strip](episodes/104.md) | Trim whitespace from both ends of a string | Scheduled 2026-10-16T10:10:00-05:00 |
 | 105 | [Same Word, Different Case! Python lower](episodes/105.md) | Normalize simple English labels before comparing | Scheduled 2026-10-16T10:20:00-05:00 |
