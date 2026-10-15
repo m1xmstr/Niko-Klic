@@ -106,7 +106,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 93 | [Which Folder Holds the Note? Python Path](episodes/93.md) | Read the filename and parent folder from a relative Python Path | [Watch](https://www.youtube.com/shorts/MSyyOCOKtj0) — Public; playback and manual English verified |
 | 94 | [Is the Saved Note Really There? Python exists](episodes/94.md) | Create a harmless practice file and check whether two relative paths exist | [Watch](https://www.youtube.com/shorts/GXZ-vEvUuEM) — Public; playback and manual English verified |
 | 95 | [What Does the Ending Tell Us? Python File Suffix](episodes/95.md) | Read a path suffix and compare it with a known extension without assuming file safety | [Watch](https://www.youtube.com/shorts/vYZxfCjZocc) — Public; playback and manual English verified |
-| 96 | [Give Your Files a Home! Python mkdir](episodes/96.md) | Create and check a practice folder using pathlib | Scheduled 2026-10-15T10:00:00-05:00 |
+| 96 | [Give Your Files a Home! Python mkdir](episodes/96.md) | Create and check a practice folder using pathlib | [Watch](https://www.youtube.com/shorts/DHhYyylyVjo) |
 | 97 | [Keep the Original! Python copyfile](episodes/97.md) | Copy a practice file and reopen the copied contents | Scheduled 2026-10-15T10:10:00-05:00 |
 | 98 | [Which Part Names the Website? Python URLs](episodes/98.md) | Separate a fictional URL hostname from its path | Scheduled 2026-10-15T10:20:00-05:00 |
 | 99 | [Why Does It Come Back Here? Python Loopback](episodes/99.md) | Recognize a loopback IP address using Python | Scheduled 2026-10-15T10:30:00-05:00 |
