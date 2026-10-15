@@ -1,6 +1,6 @@
 # Where Did Our File Go? Python File Skills | Nico & Klic Review 93–97
 
-Natively scheduled for 2026-10-15T12:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
+[Watch Review 93–97](https://www.youtube.com/watch?v=o_l658odCLg) — Public; advancing playback and manual English captions verified October 15, 2026.
 
 Practice five Python ideas, then combine them in **our practice-file organizer**. Examples use fictional practice values. File exercises create real disposable local files in the practice folder.
 
