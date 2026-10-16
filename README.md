@@ -113,11 +113,11 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 100 | [Same Host, Which Port? Python URL Ports](episodes/100.md) | Read an explicit port from a fictional URL | [Watch](https://www.youtube.com/shorts/SJXeEuX4AmQ) — Public; playback and manual English verified |
 | 101 | [What Does HTTPS Tell Us? Python URL Schemes](episodes/101.md) | Read a URL scheme and distinguish a text comparison from verification | [Watch](https://www.youtube.com/shorts/VjDJkzslbbg) — Public; playback and manual English verified |
 | 102 | [Choose What to Share! Python Field Allowlist](episodes/102.md) | Build a smaller dictionary using an explicit list of allowed keys | [Watch](https://www.youtube.com/shorts/KwmZrgKn3lI); playback and manual English verified |
-| 104 | [Too Much Space! Python strip](episodes/104.md) | Trim whitespace from both ends of a string | Scheduled 2026-10-16T10:10:00-05:00 |
-| 105 | [Same Word, Different Case! Python lower](episodes/105.md) | Normalize simple English labels before comparing | Scheduled 2026-10-16T10:20:00-05:00 |
-| 106 | [One Label, Two Pieces! Python split](episodes/106.md) | Split comma-separated practice text into a list | Scheduled 2026-10-16T10:30:00-05:00 |
-| 107 | [Build One Clear Label! Python join](episodes/107.md) | Join a list of strings with a chosen separator | Scheduled 2026-10-16T10:40:00-05:00 |
-| 108 | [Is Five a Word or a Number? Python int](episodes/108.md) | Convert valid integer text before doing arithmetic | Scheduled 2026-10-16T10:50:00-05:00 |
+| 104 | [Too Much Space! Python strip](episodes/104.md) | Trim whitespace from both ends of a string | [Watch](https://www.youtube.com/shorts/6j3sd3bav_0); playback and manual English verified |
+| 105 | [Same Word, Different Case! Python lower](episodes/105.md) | Normalize simple English labels before comparing | [Watch](https://www.youtube.com/shorts/N5p2yeEMqB4); playback and manual English verified |
+| 106 | [One Label, Two Pieces! Python split](episodes/106.md) | Split comma-separated practice text into a list | [Watch](https://www.youtube.com/shorts/KNlJ_H93Ukc); playback and manual English verified |
+| 107 | [Build One Clear Label! Python join](episodes/107.md) | Join a list of strings with a chosen separator | [Watch](https://www.youtube.com/shorts/SBYXTwN0iFE); playback and manual English verified |
+| 108 | [Is Five a Word or a Number? Python int](episodes/108.md) | Convert valid integer text before doing arithmetic | [Watch](https://www.youtube.com/shorts/x_41A_MDKFY); playback and manual English verified |
 | 109 | [Half a Unit Counts Too! Python float](episodes/109.md) | Convert decimal text before arithmetic | Scheduled 2026-10-17T10:00:00-05:00 |
 | 110 | [Which Whole Number Is Closer? Python round](episodes/110.md) | Round a measurement to a whole number | Scheduled 2026-10-17T10:10:00-05:00 |
 | 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | Scheduled 2026-10-17T10:20:00-05:00 |
