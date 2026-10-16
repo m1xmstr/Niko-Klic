@@ -1,6 +1,6 @@
 # What Does This Address Really Tell Us? Python Network Basics | Nico & Klic Review 98–102
 
-Natively scheduled for 2026-10-16T12:00:00-05:00 (America/Chicago). Public playback and manual captions will be checked after release.
+[Watch this review](https://www.youtube.com/watch?v=t7TjIg_pBLs). Public playback and manual English captions verified October 16, 2026.
 
 Practice five Python ideas, then combine them in **our local address inspection card**. Examples use fictional practice values. File exercises create real disposable local files in the practice folder.
 
