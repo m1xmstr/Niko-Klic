@@ -125,6 +125,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | [Watch](https://www.youtube.com/shorts/zv1SGCjCG9I); playback and manual English verified |
 | 114 | [Count in Bigger Steps! Python range](episodes/114.md) | Generate evenly spaced integers with range start, stop and step | Scheduled October18; public verification pending |
 | 115 | [Number Each Item! Python enumerate](episodes/115.md) | Pair each list item with a counter using enumerate | Scheduled October18; public verification pending |
+| 119 | [Who Helps the App? Meet Linux](episodes/119.md) | Apps, operating system, hardware, Linux kernel | Scheduled October18 at 10:20 Central; public verification pending |
 
 ## Five-lesson companion reviews
 
