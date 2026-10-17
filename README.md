@@ -2,7 +2,7 @@
 
 **Tiny code. Big adventures.**
 
-Nico and his robot friend Klic explore coding through playful, short visual stories. Watch an instruction, predict an action, and see what happens.
+Nico and his robot friend Klic explore computers, coding, Linux, automation and AI through playful visual stories. Predict an outcome, watch an experiment, and check what happened. [See the broader curriculum](CURRICULUM.md), including upcoming Ansible, machine learning and LLM lessons.
 
 [Watch the YouTube channel](https://www.youtube.com/@NicoAndKlic) · [Learning path](LEARNING-PATH.md)
 
@@ -123,6 +123,8 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | [Watch](https://www.youtube.com/shorts/Tgppo--qCeQ); playback and manual English verified |
 | 112 | [Does the Name Start Right? Python startswith](episodes/112.md) | Check a fictional filename prefix | [Watch](https://www.youtube.com/shorts/9rXi85g83KY); playback and manual English verified |
 | 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | [Watch](https://www.youtube.com/shorts/zv1SGCjCG9I); playback and manual English verified |
+| 114 | [Count in Bigger Steps! Python range](episodes/114.md) | Generate evenly spaced integers with range start, stop and step | Scheduled October18; public verification pending |
+| 115 | [Number Each Item! Python enumerate](episodes/115.md) | Pair each list item with a counter using enumerate | Scheduled October18; public verification pending |
 
 ## Five-lesson companion reviews
 

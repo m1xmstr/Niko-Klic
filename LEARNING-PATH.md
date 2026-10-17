@@ -28,3 +28,8 @@ After the first twenty lessons, use [Understanding What We’ve Learned](episode
 ## From stories to real Python
 
 Use [printing text](episodes/44.md), [fixing syntax](episodes/45.md), [updating variables](episodes/46.md), and [strings versus numbers](episodes/47.md) first. The next prepared guides connect [comparisons](episodes/48.md) to [if/else decisions](episodes/49.md), then [for loops](episodes/50.md). These show runnable Python 3 and exact terminal output; the README marks videos that are still pending. Copy the code with a grown-up, predict its result, then change one value.
+
+
+## Broader technology rotation
+
+The [upcoming curriculum](CURRICULUM.md) rotates Linux, Ansible and automation, AI literacy, machine learning and LLMs alongside coding. Each track starts with its own prerequisites; completing every Python lesson is not required. Upcoming topics are separate from the published episode library.
