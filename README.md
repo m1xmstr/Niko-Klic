@@ -137,7 +137,7 @@ Each original long review revisits five individual Shorts and connects them in a
 - [Where Did Our File Go? Python File Skills | Nico & Klic Review 93–97](reviews/review-93-97.md) — [Watch](https://www.youtube.com/watch?v=o_l658odCLg); Public playback and manual English verified.
 - [What Does This Address Really Tell Us? Python Network Basics | Nico & Klic Review 98–102](reviews/review-98-102.md) — [Watch](https://www.youtube.com/watch?v=t7TjIg_pBLs); Public playback and manual English verified.
 - [Can Python Tidy Our Craft Labels? Strings and Numbers | Nico & Klic Review 104–108](reviews/review-104-108.md) — [Watch](https://www.youtube.com/watch?v=TeEYetQyySA); Public playback and manual English verified.
-- [Can Python Build a Clear Workshop Report? | Nico & Klic Review 109–113](reviews/review-109-113.md) — Scheduled 2026-10-17T12:00:00-05:00 (Central).
+- [Can Python Build a Clear Workshop Report? | Nico & Klic Review 109–113](reviews/review-109-113.md) — [Watch](https://www.youtube.com/watch?v=OMVFJnlvINE); Public playback and manual English verified.
 
 ## About the series
 
