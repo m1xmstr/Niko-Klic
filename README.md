@@ -144,6 +144,8 @@ Each original long review revisits five individual Shorts. The completed reviews
 - [Can Python Tidy Our Craft Labels? Strings and Numbers | Nico & Klic Review 104–108](reviews/review-104-108.md) — [Watch](https://www.youtube.com/watch?v=TeEYetQyySA); Public playback and manual English verified.
 - [Can Python Build a Clear Workshop Report? | Nico & Klic Review 109–113](reviews/review-109-113.md) — [Watch](https://www.youtube.com/watch?v=OMVFJnlvINE); Public playback and manual English verified.
 
+- [Can We Plan a Toy Fair? Python, Linux, Ansible & AI](reviews/review-114-115-119-120-121.md) — Exact lessons 114, 115, 119, 120 and 121. Prepared; video Private pending all five public playback and manual-English checks.
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; Episodes 44–115 focus on runnable Python, separate terminal output, and changed examples. The new rotation begins with Linux and Ansible concept models; their guides clearly distinguish physical models from executed software. Longer explanations and adult-supported activities help turn a quick story into learning.
