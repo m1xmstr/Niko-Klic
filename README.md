@@ -119,10 +119,10 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 107 | [Build One Clear Label! Python join](episodes/107.md) | Join a list of strings with a chosen separator | [Watch](https://www.youtube.com/shorts/SBYXTwN0iFE); playback and manual English verified |
 | 108 | [Is Five a Word or a Number? Python int](episodes/108.md) | Convert valid integer text before doing arithmetic | [Watch](https://www.youtube.com/shorts/x_41A_MDKFY); playback and manual English verified |
 | 109 | [Half a Unit Counts Too! Python float](episodes/109.md) | Convert decimal text before arithmetic | [Watch](https://www.youtube.com/shorts/IDwdCDOwc3w) |
-| 110 | [Which Whole Number Is Closer? Python round](episodes/110.md) | Round a measurement to a whole number | Scheduled 2026-10-17T10:10:00-05:00 |
-| 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | Scheduled 2026-10-17T10:20:00-05:00 |
-| 112 | [Does the Name Start Right? Python startswith](episodes/112.md) | Check a fictional filename prefix | Scheduled 2026-10-17T10:30:00-05:00 |
-| 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | Scheduled 2026-10-17T10:40:00-05:00 |
+| 110 | [Which Whole Number Is Closer? Python round](episodes/110.md) | Round a measurement to a whole number | [Watch](https://www.youtube.com/shorts/woAKei5d5pk); playback and manual English verified |
+| 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | [Watch](https://www.youtube.com/shorts/Tgppo--qCeQ); playback and manual English verified |
+| 112 | [Does the Name Start Right? Python startswith](episodes/112.md) | Check a fictional filename prefix | [Watch](https://www.youtube.com/shorts/9rXi85g83KY); playback and manual English verified |
+| 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | [Watch](https://www.youtube.com/shorts/zv1SGCjCG9I); playback and manual English verified |
 
 ## Five-lesson companion reviews
 
