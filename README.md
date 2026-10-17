@@ -126,8 +126,8 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 114 | [Count in Bigger Steps! Python range](episodes/114.md) | Generate evenly spaced integers with range start, stop and step | Scheduled October18; public verification pending |
 | 115 | [Number Each Item! Python enumerate](episodes/115.md) | Pair each list item with a counter using enumerate | Scheduled October18; public verification pending |
 | 119 | [Who Helps the App? Meet Linux](episodes/119.md) | Apps, operating system, hardware, Linux kernel | Scheduled October18 at 10:20 Central; public verification pending |
-
 | 120 | [Which Task Comes First? Meet Ansible](episodes/120.md) | Ordered automation tasks and playbooks | Scheduled October18 at 10:30 Central; public verification pending |
+| 121 | [Same Answer—Did Both Learn? Meet AI](episodes/121.md) | Compare a written rule with a model fitted from examples | Scheduled October18 at 10:40 Central; public verification pending |
 
 ## Five-lesson companion reviews
 
