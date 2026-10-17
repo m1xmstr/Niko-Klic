@@ -128,6 +128,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 119 | [Who Helps the App? Meet Linux](episodes/119.md) | Apps, operating system, hardware, Linux kernel | Scheduled October18 at 10:20 Central; public verification pending |
 | 120 | [Which Task Comes First? Meet Ansible](episodes/120.md) | Ordered automation tasks and playbooks | Scheduled October18 at 10:30 Central; public verification pending |
 | 121 | [Same Answer—Did Both Learn? Meet AI](episodes/121.md) | Compare a written rule with a model fitted from examples | Scheduled October18 at 10:40 Central; public verification pending |
+| 122 | [The Model Guessed Wrong! Machine Learning Labels](episodes/122.md) | Train with labeled examples, then check new predictions | Scheduled October19 at 10:00 Central; public verification pending |
 
 ## Five-lesson companion reviews
 
