@@ -127,9 +127,11 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 115 | [Number Each Item! Python enumerate](episodes/115.md) | Pair each list item with a counter using enumerate | Scheduled October18; public verification pending |
 | 119 | [Who Helps the App? Meet Linux](episodes/119.md) | Apps, operating system, hardware, Linux kernel | Scheduled October18 at 10:20 Central; public verification pending |
 
+| 120 | [Which Task Comes First? Meet Ansible](episodes/120.md) | Ordered automation tasks and playbooks | Prepared; release verification pending |
+
 ## Five-lesson companion reviews
 
-Each original long review revisits five individual Shorts and connects them in a working Python project. Scheduled videos become public on their release date.
+Each original long review revisits five individual Shorts. The completed reviews below connect Python lessons in working projects; future mixed-topic reviews will connect the exact lessons released. Scheduled videos become public on their release date.
 
 - [Can Five Python Ideas Plan Our Adventure? | Nico & Klic Review 62–66](reviews/review-62-66.md) — [Watch](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
 - [Can Python Get Our Workshop Ready? | Nico & Klic Review 67–71](reviews/review-67-71.md) — [Watch](https://www.youtube.com/watch?v=LX6dXxtCKCI); Public with English captions verified.
@@ -144,6 +146,6 @@ Each original long review revisits five individual Shorts and connects them in a
 
 ## About the series
 
-The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; from Episode 44, lessons show runnable Python, separate terminal output, and changed examples. Longer explanations and adult-supported activities help turn a quick story into learning.
+The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; Episodes 44–115 focus on runnable Python, separate terminal output, and changed examples. The new rotation begins with Linux and Ansible concept models; their guides clearly distinguish physical models from executed software. Longer explanations and adult-supported activities help turn a quick story into learning.
 
 This public repository contains educational companion material. Production artwork, voice files, and production systems are managed separately. No commercial links or advertising are part of the show.
