@@ -150,6 +150,8 @@ Each original long review revisits five individual Shorts. The completed reviews
 
 - [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — Exact lessons 122–126. Prepared; release waits for all five covered lessons.
 
+- [127 — No Peeking! Test the Machine Learning Model](episodes/127.md) — Prepared guide; video release pending.
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; Episodes 44–115 focus on runnable Python, separate terminal output, and changed examples. The new rotation begins with Linux and Ansible concept models; their guides clearly distinguish physical models from executed software. Longer explanations and adult-supported activities help turn a quick story into learning.
