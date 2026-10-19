@@ -6,6 +6,8 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 [Watch the YouTube channel](https://www.youtube.com/@NicoAndKlic) · [Learning path](LEARNING-PATH.md)
 
+**Release schedule:** One new Short Monday–Friday at 10AM Central, with weekends off. After every five Shorts, a long summary follows on the fifth Short’s release day, once its lessons are verified.
+
 ## Episode library
 
 Each guide includes a learning goal, a short explanation, an offline activity, and a question with an answer for a parent or educator.
@@ -123,13 +125,13 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 111 | [Put the Number in the Label! Python f-strings](episodes/111.md) | Insert a value into readable text | [Watch](https://www.youtube.com/shorts/Tgppo--qCeQ); playback and manual English verified |
 | 112 | [Does the Name Start Right? Python startswith](episodes/112.md) | Check a fictional filename prefix | [Watch](https://www.youtube.com/shorts/9rXi85g83KY); playback and manual English verified |
 | 113 | [Change One Word in a Label! Python replace](episodes/113.md) | Create text with a chosen replacement | [Watch](https://www.youtube.com/shorts/zv1SGCjCG9I); playback and manual English verified |
-| 114 | [Count in Bigger Steps! Python range](episodes/114.md) | Generate evenly spaced integers with range start, stop and step | Scheduled October18; public verification pending |
-| 115 | [Number Each Item! Python enumerate](episodes/115.md) | Pair each list item with a counter using enumerate | Scheduled October18; public verification pending |
-| 119 | [Who Helps the App? Meet Linux](episodes/119.md) | Apps, operating system, hardware, Linux kernel | Scheduled October18 at 10:20 Central; public verification pending |
-| 120 | [Which Task Comes First? Meet Ansible](episodes/120.md) | Ordered automation tasks and playbooks | Scheduled October18 at 10:30 Central; public verification pending |
-| 121 | [Same Answer—Did Both Learn? Meet AI](episodes/121.md) | Compare a written rule with a model fitted from examples | Scheduled October18 at 10:40 Central; public verification pending |
+| 114 | [Count in Bigger Steps! Python range](episodes/114.md) | Generate evenly spaced integers with range start, stop and step | Public; playback and manual English verified |
+| 115 | [Number Each Item! Python enumerate](episodes/115.md) | Pair each list item with a counter using enumerate | Public; playback and manual English verified |
+| 119 | [Who Helps the App? Meet Linux](episodes/119.md) | Apps, operating system, hardware, Linux kernel | Public; playback and manual English verified |
+| 120 | [Which Task Comes First? Meet Ansible](episodes/120.md) | Ordered automation tasks and playbooks | Public; playback and manual English verified |
+| 121 | [Same Answer—Did Both Learn? Meet AI](episodes/121.md) | Compare a written rule with a model fitted from examples | Public; playback and manual English verified |
 | 122 | [The Model Guessed Wrong! Machine Learning Labels](episodes/122.md) | Train with labeled examples, then check new predictions | Scheduled October19 at 10:00 Central; public verification pending |
-| 123 | [Which Word Comes Next? LLM Tokens](episodes/123.md) | Tokens, possible continuations and checking a claim | Scheduled October19 at 10:10 Central; public verification pending |
+| 123 | [Which Word Comes Next? LLM Tokens](episodes/123.md) | Tokens, possible continuations and checking a claim | Scheduled October20 at 10:00 Central; public verification pending |
 
 ## Five-lesson companion reviews
 
@@ -153,11 +155,11 @@ Each original long review revisits five individual Shorts. The completed reviews
 - [127 — No Peeking! Test the Machine Learning Model](episodes/127.md) — Prepared guide; video release pending.
 
 
-- [Episode 128 — Where Should We Go? LLM Prompts](episodes/128.md) — Prepared guide; video release pending.
+- [Episode 128 — Where Should We Go? LLM Prompts](episodes/128.md) — Scheduled October 27 at 10AM Central; public verification pending.
 
-- [Episode 129 — A Home for Empty Files! Linux mkdir and touch](episodes/129.md) — Prepared guide; video release pending.
+- [Episode 129 — A Home for Empty Files! Linux mkdir and touch](episodes/129.md) — Scheduled October 28 at 10AM Central; public verification pending.
 
-- [Episode 130 — Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) — Prepared; upload/scheduling pending.
+- [Episode 130 — Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) — Scheduled October 29 at 10AM Central; public verification pending.
 
 ## About the series
 

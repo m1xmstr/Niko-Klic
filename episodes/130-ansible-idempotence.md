@@ -1,6 +1,6 @@
 # Episode 130 — Already Done? Ansible Idempotence
 
-**Status:** Video prepared; native upload and scheduling not yet verified.
+**Status:** Scheduled October 29, 2026 at 10:00 AM Central; public playback and manual-English verification pending.
 
 **Learning goal:** Run a desired-state directory task twice and compare its change counts. Then request a different directory and repeat.
 
