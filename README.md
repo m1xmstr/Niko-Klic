@@ -8,6 +8,10 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 **Release schedule:** One new Short Monday–Friday at 10AM Central, with weekends off. After every five Shorts, a long summary follows on the fifth Short’s release day, once its lessons are verified.
 
+## Start here
+
+[Watch our introduction to computers, coding and AI](https://www.youtube.com/watch?v=cE7i9PODDm8). Follow a mysterious message through four illustrated settings, then try the [welcome-video learner activities](WELCOME-IT.md).
+
 ## Episode library
 
 Each guide includes a learning goal, a short explanation, an offline activity, and a question with an answer for a parent or educator.
