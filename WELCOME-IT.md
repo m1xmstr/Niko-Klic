@@ -1,6 +1,6 @@
 # Where Does Your Message Go? An Introduction to IT
 
-[Watch the welcome video](https://www.youtube.com/watch?v=cE7i9PODDm8) — about 6 minutes 42 seconds.
+[Watch the welcome video](https://www.youtube.com/watch?v=Kbcsx1KwAnY) — about 6 minutes 42 seconds.
 
 Join Nico and Klic on a message adventure through computers, programming, networks and AI. This welcome lesson needs no prior coding experience. Watch with a grown-up, predict a result, then compare it with the experiment.
 

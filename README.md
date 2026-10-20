@@ -10,7 +10,7 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 ## Start here
 
-[Watch our introduction to computers, coding and AI](https://www.youtube.com/watch?v=cE7i9PODDm8). Follow a mysterious message through four illustrated settings, then try the [welcome-video learner activities](WELCOME-IT.md).
+[Watch our introduction to computers, coding and AI](https://www.youtube.com/watch?v=Kbcsx1KwAnY). Follow a mysterious message through four illustrated settings, then try the [welcome-video learner activities](WELCOME-IT.md).
 
 ## Episode library
 
