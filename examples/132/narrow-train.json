@@ -1,0 +1,34 @@
+[
+  {
+    "id": "train-t1",
+    "features": [
+      3,
+      2
+    ],
+    "label": "triangle"
+  },
+  {
+    "id": "train-t2",
+    "features": [
+      3,
+      3
+    ],
+    "label": "triangle"
+  },
+  {
+    "id": "train-s1",
+    "features": [
+      4,
+      8
+    ],
+    "label": "square"
+  },
+  {
+    "id": "train-s2",
+    "features": [
+      4,
+      9
+    ],
+    "label": "square"
+  }
+]

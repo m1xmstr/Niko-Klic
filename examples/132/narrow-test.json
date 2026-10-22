@@ -1,0 +1,16 @@
+[
+  {
+    "id": "test-a1",
+    "features": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "test-a2",
+    "features": [
+      4,
+      3
+    ]
+  }
+]
