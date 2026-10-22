@@ -6,7 +6,9 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 [Watch the YouTube channel](https://www.youtube.com/@NicoAndKlic) · [Learning path](LEARNING-PATH.md)
 
-**Release schedule:** One new Short Monday–Friday at 10AM Central, with weekends off. After every five Shorts, a long summary follows on the fifth Short’s release day, once its lessons are verified.
+**Release schedule:** Starting October 26, our baseline is two Shorts each weekday, at 10AM and 3PM Central. An original long review follows every ten new Shorts, targeting Friday evening or Saturday after the covered lessons are public and checked. The already-prepared five-lesson review for October 23 remains a transition exception. Quality checks can delay a release.
+
+[Community lesson posts](https://www.youtube.com/@NicoAndKlic/posts) add a descriptive lesson title, learning objective, video and the matching GitHub guide as each lesson is published.
 
 ## Start here
 
@@ -139,7 +141,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 
 ## Five-lesson companion reviews
 
-Each original long review revisits five individual Shorts. The completed reviews below connect Python lessons in working projects; future mixed-topic reviews will connect the exact lessons released. Scheduled videos become public on their release date.
+Earlier original long reviews revisit five individual Shorts; new review blocks after lessons 122–126 cover ten new Shorts. The completed reviews below connect Python lessons in working projects; future mixed-topic reviews will connect the exact lessons released. Scheduled videos become public on their release date.
 
 - [Can Five Python Ideas Plan Our Adventure? | Nico & Klic Review 62–66](reviews/review-62-66.md) — [Watch](https://www.youtube.com/watch?v=eCDvgX3h_Rw).
 - [Can Python Get Our Workshop Ready? | Nico & Klic Review 67–71](reviews/review-67-71.md) — [Watch](https://www.youtube.com/watch?v=LX6dXxtCKCI); Public with English captions verified.
