@@ -136,8 +136,8 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 119 | [Who Helps the App? Meet Linux](episodes/119.md) | Apps, operating system, hardware, Linux kernel | Public; playback and manual English verified |
 | 120 | [Which Task Comes First? Meet Ansible](episodes/120.md) | Ordered automation tasks and playbooks | Public; playback and manual English verified |
 | 121 | [Same Answer—Did Both Learn? Meet AI](episodes/121.md) | Compare a written rule with a model fitted from examples | Public; playback and manual English verified |
-| 122 | [The Model Guessed Wrong! Machine Learning Labels](episodes/122.md) | Train with labeled examples, then check new predictions | Scheduled October19 at 10:00 Central; public verification pending |
-| 123 | [Which Word Comes Next? LLM Tokens](episodes/123.md) | Tokens, possible continuations and checking a claim | Scheduled October20 at 10:00 Central; public verification pending |
+| 122 | [The Model Guessed Wrong! Machine Learning Labels](episodes/122.md) | Train with labeled examples, then check new predictions | [Watch](https://www.youtube.com/shorts/HzjpvRTW3p0); public playback and manual English verified |
+| 123 | [Which Word Comes Next? LLM Tokens](episodes/123.md) | Tokens, possible continuations and checking a claim | [Watch](https://www.youtube.com/shorts/TPU7lMUsPMI); public playback and manual English verified |
 
 ## Five-lesson companion reviews
 
@@ -161,11 +161,11 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 - [127 — No Peeking! Test the Machine Learning Model](episodes/127.md) — Prepared guide; video release pending.
 
 
-- [Episode 128 — Where Should We Go? LLM Prompts](episodes/128.md) — Scheduled October 27 at 10AM Central; public verification pending.
+- [Episode 128 — Where Should We Go? LLM Prompts](episodes/128.md) — Scheduled October 26 at 3PM Central; public verification pending.
 
-- [Episode 129 — A Home for Empty Files! Linux mkdir and touch](episodes/129.md) — Scheduled October 28 at 10AM Central; public verification pending.
+- [Episode 129 — A Home for Empty Files! Linux mkdir and touch](episodes/129.md) — Scheduled October 27 at 10AM Central; public verification pending.
 
-- [Episode 130 — Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) — Scheduled October 29 at 10AM Central; public verification pending.
+- [Episode 130 — Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) — Scheduled October 27 at 3PM Central; public verification pending.
 
 ## About the series
 
