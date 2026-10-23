@@ -179,6 +179,8 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 
 - [Episode 136 — Which Clue Matches? Linux grep](episodes/136.md) — Scheduled October 30 at 3PM Central; public verification pending.
 
+- [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Prepared; release waits for all ten lessons and verification gates.
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; Episodes 44–115 focus on runnable Python, separate terminal output, and changed examples. The new rotation begins with Linux and Ansible concept models; their guides clearly distinguish physical models from executed software. Longer explanations and adult-supported activities help turn a quick story into learning.
