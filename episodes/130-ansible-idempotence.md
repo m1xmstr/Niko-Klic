@@ -1,6 +1,6 @@
 # Episode 130 — Already Done? Ansible Idempotence
 
-**Status:** Scheduled October 27, 2026 at 3:00 PM Central; public playback and manual-English verification pending.
+**Status:** Corrected terminal-and-typing edition scheduled October 27 at 3:00 PM, 2026 Central. Public playback and captions will be checked after release.
 
 **Learning goal:** Run a desired-state directory task twice and compare its change counts. Then request a different directory and repeat.
 
@@ -8,7 +8,7 @@
 
 ## Story and prediction
 
-In a mint-and-ochre tool shed, Nico pushes a spare bin aside while Klic opens the existing bin to inspect it. The bins illustrate a computer folder task; no program controls real bins or robots.
+Nico types the folder task while Klic helps compare the first and repeated runs. Large terminal panels show the task and its recorded change counts; no program controls physical bins or robots.
 
 The first run creates `art`. Predict: if the same task runs again with the same requested state, does it need to change anything?
 
