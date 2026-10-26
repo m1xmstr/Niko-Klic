@@ -6,7 +6,7 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 [Watch the YouTube channel](https://www.youtube.com/@NicoAndKlic) · [Learning path](LEARNING-PATH.md)
 
-**Release schedule:** Starting October 26, our baseline is two Shorts each weekday, at 10AM and 3PM Central. An original long review follows every ten new Shorts, targeting Friday evening or Saturday after the covered lessons are public and checked. The already-prepared five-lesson review for October 23 remains a transition exception. Quality checks can delay a release.
+**Release schedule:** Starting October 26, our baseline is two Shorts each weekday, at 10AM and 3PM Central. An original long review follows every ten new Shorts, targeting Friday evening or Saturday after the covered lessons are public and checked. The five-lesson review122–126 is the transition exception, with its replacement scheduled for October26 at6PM Central. Quality checks can delay a release.
 
 [Community lesson posts](https://www.youtube.com/@NicoAndKlic/posts) add a descriptive lesson title, learning objective, video and the matching GitHub guide as each lesson is published.
 
@@ -139,7 +139,27 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 122 | [The Model Guessed Wrong! Machine Learning Labels](episodes/122.md) | Train with labeled examples, then check new predictions | [Watch](https://www.youtube.com/shorts/HzjpvRTW3p0); public playback and manual English verified |
 | 123 | [Which Word Comes Next? LLM Tokens](episodes/123.md) | Tokens, possible continuations and checking a claim | [Watch](https://www.youtube.com/shorts/TPU7lMUsPMI); public playback and manual English verified |
 
-## Five-lesson companion reviews
+<!-- current-release-index:start -->
+
+| Episode | Story and guide | Concept | Video |
+|---|---|---|---|
+| 124 | [Where Is the Star File? Linux pwd and ls](episodes/124.md) | Current folder path and listing names | [Watch](https://www.youtube.com/watch?v=_fY4jWr5ByU) — Public; playback and manual English verified |
+| 125 | [Where Does the Message Belong? Ansible YAML](episodes/125.md) | YAML grouping in a minimal Ansible playbook | [Watch](https://www.youtube.com/watch?v=CFQuBd4zChM) — Public; playback and manual English verified |
+| 126 | [Can We Trust That Answer? AI Fact-Checking](episodes/126.md) | Check AI claims using a reliable source | [Watch](https://www.youtube.com/watch?v=Xca9Nk3nElo) — Public; playback and manual English verified |
+| 127 | [No Peeking! Test the Machine Learning Model](episodes/127.md) | Hold out a separate test set | [Watch](https://www.youtube.com/watch?v=tReB9TBF9ps) — Public; playback and manual English verified |
+| 128 | [Where Should We Go? LLM Prompts](episodes/128.md) | Give a prompt a clear job | [Watch](https://www.youtube.com/watch?v=AXj9hIqjfCQ) — Public; playback and manual English verified |
+| 129 | [A Home for Empty Files! Linux mkdir and touch](episodes/129.md) | Create a practice folder and empty files | Saved schedule: October 27, 2026 at 10:00AM Central; public release verification pending |
+| 130 | [Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) | Repeat a desired-state task without extra changes | Saved schedule: October 27, 2026 at 03:00PM Central; public release verification pending |
+| 131 | [Does AI Need That Detail? Keep Private Details Out](episodes/131.md) | Review an AI prompt before sharing personal details | Saved schedule: October 28, 2026 at 10:00AM Central; public release verification pending |
+| 132 | [A Big Triangle Fooled It! Machine Learning Examples](episodes/132.md) | Narrow training examples can fail on different examples | Saved schedule: October 28, 2026 at 03:00PM Central; public release verification pending |
+| 133 | [One Word, Two Pieces? LLM Tokens](episodes/133.md) | Tokens are not necessarily whole words | Saved schedule: October 29, 2026 at 10:00AM Central; public release verification pending |
+| 134 | [What Is Inside? Linux cat](episodes/134.md) | Read saved file contents with cat | Saved schedule: October 29, 2026 at 03:00PM Central; public release verification pending |
+| 135 | [One Name, Two Greetings! Ansible Variables](episodes/135.md) | A named variable supplies a value to the same task | Saved schedule: October 30, 2026 at 10:00AM Central; public release verification pending |
+| 136 | [Which Clue Matches? Linux grep](episodes/136.md) | Find matching text lines with grep | Saved schedule: October 30, 2026 at 03:00PM Central; public release verification pending |
+
+<!-- current-release-index:end -->
+
+## Original companion reviews
 
 Earlier original long reviews revisit five individual Shorts; new review blocks after lessons 122–126 cover ten new Shorts. The completed reviews below connect Python lessons in working projects; future mixed-topic reviews will connect the exact lessons released. Scheduled videos become public on their release date.
 
@@ -156,30 +176,9 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 
 - [Can We Plan a Toy Fair? Python, Linux, Ansible & AI](reviews/review-114-115-119-120-121.md) — Exact lessons 114, 115, 119, 120 and 121. [Watch](https://www.youtube.com/watch?v=fB5EJElQ4fI); Public playback and manual English verified.
 
-- [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — Exact lessons 122–126. Prepared; release waits for all five covered lessons.
+- [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — Saved schedule: October 26, 2026 at 06:00PM Central; public release verification pending.
 
-- [127 — No Peeking! Test the Machine Learning Model](episodes/127.md) — Prepared guide; video release pending.
-
-
-- [Episode 128 — Where Should We Go? LLM Prompts](episodes/128.md) — Scheduled October 26 at 3PM Central; public verification pending.
-
-- [Episode 129 — A Home for Empty Files! Linux mkdir and touch](episodes/129.md) — Scheduled October 27 at 10AM Central; public verification pending.
-
-- [Episode 130 — Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) — Scheduled October 27 at 3PM Central; public verification pending.
-
-- [Episode 131 — Does AI Need That Detail? AI Privacy](episodes/131.md) — Scheduled October 28 at 10AM Central; public verification pending.
-
-- [Episode 132 — A Big Triangle Fooled It! Machine Learning Examples](episodes/132.md) — Scheduled October 28 at 3PM Central; public verification pending.
-
-- [Episode 133 — One Word, Two Pieces? LLM Tokens](episodes/133.md) — Scheduled October 29 at 10AM Central; public verification pending.
-
-- [Episode 134 — What Is Inside? Linux cat](episodes/134.md) — Scheduled October 29 at 3PM Central; public verification pending.
-
-- [Episode 135 — One Name, Two Greetings! Ansible Variables](episodes/135.md) — Scheduled October 30 at 10AM Central; public verification pending.
-
-- [Episode 136 — Which Clue Matches? Linux grep](episodes/136.md) — Scheduled October 30 at 3PM Central; public verification pending.
-
-- [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Prepared; release waits for all ten lessons and verification gates.
+- [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Saved schedule: October 30, 2026 at 06:00PM Central; public release verification pending.
 
 ## About the series
 
