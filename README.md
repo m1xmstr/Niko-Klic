@@ -156,7 +156,7 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 
 - [Can We Plan a Toy Fair? Python, Linux, Ansible & AI](reviews/review-114-115-119-120-121.md) — Exact lessons 114, 115, 119, 120 and 121. [Watch](https://www.youtube.com/watch?v=fB5EJElQ4fI); Public playback and manual English verified.
 
-- [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — Exact lessons 122–126. Prepared; release waits for all five covered lessons.
+- [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — Exact lessons 122–126. [Watch the corrected review](https://www.youtube.com/watch?v=8FAVHSt2AkM); Public playback and manual English captions verified.
 
 - [127 — No Peeking! Test the Machine Learning Model](episodes/127.md) — Prepared guide; video release pending.
 
