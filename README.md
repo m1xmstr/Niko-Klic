@@ -157,6 +157,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 135 | [One Name, Two Greetings! Ansible Variables](episodes/135.md) | A named variable supplies a value to the same task | Saved schedule: October 30, 2026 at 10:00AM Central; public release verification pending |
 | 136 | [Which Clue Matches? Linux grep](episodes/136.md) | Find matching text lines with grep | Saved schedule: October 30, 2026 at 03:00PM Central; public release verification pending |
 | 137 | [Where Did the Star File Go? Linux find](episodes/137.md) | Exact-name search: star.txt versus start.txt | Saved schedule: November 02, 2026 at 10:00AM Central; public release verification pending |
+| 138 | [When Should AI Say Unknown?](episodes/138.md) | Say unknown when supplied evidence omits a requested fact; update only when new evidence supplies it. | Saved schedule: November 02, 2026 at 03:00PM Central; public release verification pending |
 | 139 | [Hello, Guest? Ansible Templates](episodes/139.md) | Literal text versus template lookup | Saved schedule: November 03, 2026 at 10:00AM Central; public release verification pending |
 | 143 | [Three Votes. Is That a Promise? Machine Learning](episodes/143.md) | Compare nearest-neighbor vote agreement without calling it probability | Saved schedule: November 05, 2026 at 10:00AM Central; public release verification pending |
 
