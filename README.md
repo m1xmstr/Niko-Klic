@@ -6,7 +6,7 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 [Watch the YouTube channel](https://www.youtube.com/@NicoAndKlic) · [Learning path](LEARNING-PATH.md)
 
-**Release schedule:** Starting October 26, our baseline is two Shorts each weekday, at 10AM and 3PM Central. An original long review follows every ten new Shorts, targeting Friday evening or Saturday after the covered lessons are public and checked. The five-lesson review122–126 is the transition exception, with its replacement scheduled for October26 at6PM Central. Quality checks can delay a release.
+**Release schedule:** Starting October 26, our baseline is two Shorts each weekday, at 10AM and 3PM Central. An original long review follows every ten new Shorts, targeting Friday evening or Saturday after the covered lessons are public and checked. The five-lesson review122–126 is the transition exception; its current verified state appears below. Quality checks can delay a release.
 
 [Community lesson posts](https://www.youtube.com/@NicoAndKlic/posts) add a descriptive lesson title, learning objective, video and the matching GitHub guide as each lesson is published.
 
@@ -156,6 +156,9 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 134 | [What Is Inside? Linux cat](episodes/134.md) | Read saved file contents with cat | Saved schedule: October 29, 2026 at 03:00PM Central; public release verification pending |
 | 135 | [One Name, Two Greetings! Ansible Variables](episodes/135.md) | A named variable supplies a value to the same task | Saved schedule: October 30, 2026 at 10:00AM Central; public release verification pending |
 | 136 | [Which Clue Matches? Linux grep](episodes/136.md) | Find matching text lines with grep | Saved schedule: October 30, 2026 at 03:00PM Central; public release verification pending |
+| 137 | [Where Did the Star File Go? Linux find](episodes/137.md) | Exact-name search: star.txt versus start.txt | Saved schedule: November 02, 2026 at 10:00AM Central; public release verification pending |
+| 139 | [Hello, Guest? Ansible Templates](episodes/139.md) | Literal text versus template lookup | Saved schedule: November 03, 2026 at 10:00AM Central; public release verification pending |
+| 143 | [Three Votes. Is That a Promise? Machine Learning](episodes/143.md) | Compare nearest-neighbor vote agreement without calling it probability | Saved schedule: November 05, 2026 at 10:00AM Central; public release verification pending |
 
 <!-- current-release-index:end -->
 
@@ -176,7 +179,7 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 
 - [Can We Plan a Toy Fair? Python, Linux, Ansible & AI](reviews/review-114-115-119-120-121.md) — Exact lessons 114, 115, 119, 120 and 121. [Watch](https://www.youtube.com/watch?v=fB5EJElQ4fI); Public playback and manual English verified.
 
-- [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — Exact lessons 122–126. [Watch the corrected review](https://www.youtube.com/watch?v=8FAVHSt2AkM); Public playback and manual English captions verified.
+- [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — [Watch](https://www.youtube.com/watch?v=8FAVHSt2AkM) — Public; playback and manual English verified.
 
 - [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Saved schedule: October 30, 2026 at 06:00PM Central; public release verification pending.
 
