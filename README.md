@@ -161,6 +161,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 139 | [Hello, Guest? Ansible Templates](episodes/139.md) | Literal text versus template lookup | Saved schedule: November 03, 2026 at 10:00AM Central; public release verification pending |
 | 140 | [Lamp or Bell First? Linux Logs](episodes/140.md) | Read timestamps and distinguish recorded order from sorting | Scheduled November 3, 2026 at 3PM Central; public verification pending |
 | 141 | [Which Label Fits?](episodes/141.md) | Give a language model one example, then check its reply | Scheduled November 4, 2026 at 10AM Central; public verification pending |
+| 142 | [Why Did the Task Skip?](episodes/142.md) | Compare false and true Ansible task conditions | Scheduled November 4, 2026 at 3PM Central; public verification pending |
 | 143 | [Three Votes. Is That a Promise? Machine Learning](episodes/143.md) | Compare nearest-neighbor vote agreement without calling it probability | Saved schedule: November 05, 2026 at 10:00AM Central; public release verification pending |
 
 <!-- current-release-index:end -->
