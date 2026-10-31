@@ -8,7 +8,7 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 **Release schedule:** Starting October 26, our baseline is two Shorts each weekday, at 10AM and 3PM Central. An original long review follows every ten new Shorts, targeting Friday evening or Saturday after the covered lessons are public and checked. The five-lesson review122–126 is the transition exception; its current verified state appears below. Quality checks can delay a release.
 
-[Community lesson posts](https://www.youtube.com/@NicoAndKlic/posts) add a descriptive lesson title, learning objective, video and the matching GitHub guide as each lesson is published.
+Community posts are currently unavailable on this channel. Use the episode guides below for lesson activities and video links.
 
 ## Start here
 
@@ -148,17 +148,19 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 126 | [Can We Trust That Answer? AI Fact-Checking](episodes/126.md) | Check AI claims using a reliable source | [Watch](https://www.youtube.com/watch?v=Xca9Nk3nElo) — Public; playback and manual English verified |
 | 127 | [No Peeking! Test the Machine Learning Model](episodes/127.md) | Hold out a separate test set | [Watch](https://www.youtube.com/watch?v=tReB9TBF9ps) — Public; playback and manual English verified |
 | 128 | [Where Should We Go? LLM Prompts](episodes/128.md) | Give a prompt a clear job | [Watch](https://www.youtube.com/watch?v=AXj9hIqjfCQ) — Public; playback and manual English verified |
-| 129 | [A Home for Empty Files! Linux mkdir and touch](episodes/129.md) | Create a practice folder and empty files | Saved schedule: October 27, 2026 at 10:00AM Central; public release verification pending |
-| 130 | [Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) | Repeat a desired-state task without extra changes | Saved schedule: October 27, 2026 at 03:00PM Central; public release verification pending |
-| 131 | [Does AI Need That Detail? Keep Private Details Out](episodes/131.md) | Review an AI prompt before sharing personal details | Saved schedule: October 28, 2026 at 10:00AM Central; public release verification pending |
-| 132 | [A Big Triangle Fooled It! Machine Learning Examples](episodes/132.md) | Narrow training examples can fail on different examples | Saved schedule: October 28, 2026 at 03:00PM Central; public release verification pending |
-| 133 | [One Word, Two Pieces? LLM Tokens](episodes/133.md) | Tokens are not necessarily whole words | Saved schedule: October 29, 2026 at 10:00AM Central; public release verification pending |
-| 134 | [What Is Inside? Linux cat](episodes/134.md) | Read saved file contents with cat | Saved schedule: October 29, 2026 at 03:00PM Central; public release verification pending |
-| 135 | [One Name, Two Greetings! Ansible Variables](episodes/135.md) | A named variable supplies a value to the same task | Saved schedule: October 30, 2026 at 10:00AM Central; public release verification pending |
-| 136 | [Which Clue Matches? Linux grep](episodes/136.md) | Find matching text lines with grep | Saved schedule: October 30, 2026 at 03:00PM Central; public release verification pending |
+| 129 | [A Home for Empty Files! Linux mkdir and touch](episodes/129.md) | Create a practice folder and empty files | Public; playback and manual English verified |
+| 130 | [Already Done? Ansible Idempotence](episodes/130-ansible-idempotence.md) | Repeat a desired-state task without extra changes | Public; playback and manual English verified |
+| 131 | [Does AI Need That Detail? Keep Private Details Out](episodes/131.md) | Review an AI prompt before sharing personal details | Public; playback and manual English verified |
+| 132 | [A Big Triangle Fooled It! Machine Learning Examples](episodes/132.md) | Narrow training examples can fail on different examples | Public; playback and manual English verified |
+| 133 | [One Word, Two Pieces? LLM Tokens](episodes/133.md) | Tokens are not necessarily whole words | Public; playback and manual English verified |
+| 134 | [What Is Inside? Linux cat](episodes/134.md) | Read saved file contents with cat | Public; playback and manual English verified |
+| 135 | [One Name, Two Greetings! Ansible Variables](episodes/135.md) | A named variable supplies a value to the same task | Public; playback and manual English verified |
+| 136 | [Which Clue Matches? Linux grep](episodes/136.md) | Find matching text lines with grep | Public; playback and manual English verified |
 | 137 | [Where Did the Star File Go? Linux find](episodes/137.md) | Exact-name search: star.txt versus start.txt | Saved schedule: November 02, 2026 at 10:00AM Central; public release verification pending |
 | 138 | [When Should AI Say Unknown?](episodes/138.md) | Say unknown when supplied evidence omits a requested fact; update only when new evidence supplies it. | Saved schedule: November 02, 2026 at 03:00PM Central; public release verification pending |
 | 139 | [Hello, Guest? Ansible Templates](episodes/139.md) | Literal text versus template lookup | Saved schedule: November 03, 2026 at 10:00AM Central; public release verification pending |
+| 140 | [Lamp or Bell First? Linux Logs](episodes/140.md) | Read timestamps and distinguish recorded order from sorting | Scheduled November 3, 2026 at 3PM Central; public verification pending |
+| 141 | [Which Label Fits?](episodes/141.md) | Give a language model one example, then check its reply | Scheduled November 4, 2026 at 10AM Central; public verification pending |
 | 143 | [Three Votes. Is That a Promise? Machine Learning](episodes/143.md) | Compare nearest-neighbor vote agreement without calling it probability | Saved schedule: November 05, 2026 at 10:00AM Central; public release verification pending |
 
 <!-- current-release-index:end -->
@@ -182,7 +184,7 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 
 - [Can We Trust the Exhibit? ML, LLMs, Linux & Ansible](reviews/review-122-126.md) — [Watch](https://www.youtube.com/watch?v=8FAVHSt2AkM) — Public; playback and manual English verified.
 
-- [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Saved schedule: October 30, 2026 at 06:00PM Central; public release verification pending.
+- [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Public; playback and manual English verified.
 
 ## About the series
 
