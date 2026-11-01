@@ -168,6 +168,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 146 | [Need a Map First!](episodes/146.md) | Assert a required value before continuing | [Scheduled November 6, 2026 at 3PM Central](https://youtube.com/shorts/CZwuHqIs8Ec) |
 | 147 | [A File, Not a Folder!](episodes/147.md) | Combine an exact name with a regular-file type test | [Scheduled November 9, 2026 at 10AM Central](https://youtube.com/shorts/mOHqR7uDvZ8) |
 | 148 | [Two Times. Can We Choose?](episodes/148.md) | Preserve uncertainty when supplied clues conflict | [Scheduled November 9, 2026 at 3PM Central](https://youtube.com/shorts/G6Blp2UmQqI) |
+| 149 | [Same Frame, New Color!](episodes/149.md) | Preserve fixed template text while changing a variable value | [Scheduled November 10, 2026 at 10AM Central](https://youtube.com/shorts/nB0PYSmWxZI) |
 
 <!-- current-release-index:end -->
 
