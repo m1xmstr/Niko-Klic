@@ -164,7 +164,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 142 | [Why Did the Task Skip?](episodes/142.md) | Compare false and true Ansible task conditions | Scheduled November 4, 2026 at 3PM Central; public verification pending |
 | 143 | [Three Votes. Is That a Promise? Machine Learning](episodes/143.md) | Compare nearest-neighbor vote agreement without calling it probability | Saved schedule: November 05, 2026 at 10:00AM Central; public release verification pending |
 | 144 | [New Name, Same Clue!](episodes/144.md) | Rename a practice file with mv and check its contents | Scheduled November 5, 2026 at 3PM Central; public verification pending |
-| 145 | [Just Enough Access!](episodes/145.md) | Choose read-only access for a read-only task | Local video ready; planned November 6, 2026 at 10AM Central; not uploaded or scheduled |
+| 145 | [Just Enough Access!](episodes/145.md) | Choose read-only access for a read-only task | [Scheduled November 6, 2026 at 10AM Central](https://youtube.com/shorts/kvhl5a5DDh4) |
 
 <!-- current-release-index:end -->
 
