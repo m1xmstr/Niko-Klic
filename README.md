@@ -166,6 +166,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 144 | [New Name, Same Clue!](episodes/144.md) | Rename a practice file with mv and check its contents | Scheduled November 5, 2026 at 3PM Central; public verification pending |
 | 145 | [Just Enough Access!](episodes/145.md) | Choose read-only access for a read-only task | [Scheduled November 6, 2026 at 10AM Central](https://youtube.com/shorts/kvhl5a5DDh4) |
 | 146 | [Need a Map First!](episodes/146.md) | Assert a required value before continuing | [Scheduled November 6, 2026 at 3PM Central](https://youtube.com/shorts/CZwuHqIs8Ec) |
+| 147 | [A File, Not a Folder!](episodes/147.md) | Combine an exact name with a regular-file type test | [Scheduled November 9, 2026 at 10AM Central](https://youtube.com/shorts/mOHqR7uDvZ8) |
 
 <!-- current-release-index:end -->
 
