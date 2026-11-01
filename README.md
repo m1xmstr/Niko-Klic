@@ -190,6 +190,8 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 
 - [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Public; playback and manual English verified.
 
+- [Can We Open the Night Museum? — Review137–146](reviews/review-137-146.md) — Guide prepared; video release and prerequisite verification pending.
+
 ## About the series
 
 The stories use original synthetic character voices, generated illustrations, and animated lesson objects. Earlier lessons introduce terminology with labeled visual pseudocode; Episodes 44–115 focus on runnable Python, separate terminal output, and changed examples. The new rotation begins with Linux and Ansible concept models; their guides clearly distinguish physical models from executed software. Longer explanations and adult-supported activities help turn a quick story into learning.
