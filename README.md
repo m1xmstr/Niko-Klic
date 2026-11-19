@@ -6,7 +6,7 @@ Nico and his robot friend Klic explore computers, coding, Linux, automation and 
 
 [Watch the YouTube channel](https://www.youtube.com/@NicoAndKlic) · [Learning path](LEARNING-PATH.md)
 
-**Release schedule:** Starting October 26, our baseline is two Shorts each weekday, at 10AM and 3PM Central. An original long review follows every ten new Shorts, targeting Friday evening or Saturday after the covered lessons are public and checked. The five-lesson review122–126 is the transition exception; its current verified state appears below. Quality checks can delay a release.
+New adventures can include Shorts and longer videos, with up to five releases in one Central-time day. A ten-lesson review follows the adventures it covers.
 
 Community posts are currently unavailable on this channel. Use the episode guides below for lesson activities and video links.
 
@@ -170,6 +170,18 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 148 | [Two Times. Can We Choose?](episodes/148.md) | Preserve uncertainty when supplied clues conflict | [Scheduled November 9, 2026 at 3PM Central](https://youtube.com/shorts/G6Blp2UmQqI) |
 | 149 | [Same Frame, New Color!](episodes/149.md) | Preserve fixed template text while changing a variable value | [Scheduled November 10, 2026 at 10AM Central](https://youtube.com/shorts/nB0PYSmWxZI) |
 
+| 150 | [Which Lines Finish the Log?](episodes/150.md) | Count lines from the end of a log | [Watch](https://www.youtube.com/shorts/FeyrZfkIk4E) |
+| 151 | [Did the New Word Follow the Example?](episodes/151.md) | Check a model’s answer against an example | [Watch](https://www.youtube.com/shorts/XCiQY71Bl3c) |
+| 152 | [Will the Picnic Message Run?](episodes/152.md) | Predict when a condition runs a task | [Watch](https://www.youtube.com/shorts/DMI4Et-tjgg) |
+| 153 | [A Tie Is Not a Winner!](episodes/153.md) | Handle a tie in a vote | [Watch](https://www.youtube.com/shorts/W8vRMJj7sDo) |
+| 154 | [One Map or Two?](episodes/154.md) | Make and check a file copy | [Watch](https://www.youtube.com/shorts/7JbuS7BsQd8) |
+| 155 | [Read It or Run It?](episodes/155.md) | Read a file and run a script | [Watch](https://www.youtube.com/shorts/YF5FuYHgGsQ) |
+| 156 | [Ready in Time?](episodes/156.md) | Stop retrying after a limit | [Watch](https://www.youtube.com/shorts/xGItaLWg6Vo) |
+| 157 | [Can You Spot the AI Mistake?](episodes/157.md) | Spot the clue an AI used | [Watch](https://www.youtube.com/shorts/b4ld-vaSwvM) |
+| 158 | [Can You Fix Klic's Route?](episodes/158.md) | Trace and repair one turn | [Watch](https://www.youtube.com/shorts/R5DSucUHPEU) |
+| 159 | [Can You Fix the Scrambled Kite?](episodes/159.md) | Reassemble numbered packets | Activity available ahead of the video |
+| 160 | [Can One Tap Light the Parade?](episodes/160.md) | Repeat a step with a loop | Activity available ahead of the video |
+
 <!-- current-release-index:end -->
 
 ## Original companion reviews
@@ -193,9 +205,9 @@ Earlier original long reviews revisit five individual Shorts; new review blocks 
 
 - [Original review127–136 — Which Tool Helps?](reviews/review-127-136.md) — Public; playback and manual English verified.
 
-- [Can We Open the Night Museum? — Review137–146](reviews/review-137-146.md) — Guide prepared; video release and prerequisite verification pending.
+- [Can We Open the Night Museum? — Review137–146](reviews/review-137-146.md) — [Watch](https://www.youtube.com/watch?v=c27aJRNcRG8).
 
-- [Can We Finish the Station Report? — Review147–156](reviews/review-147-156.md) — Guide available; video prepared privately, release waits for all ten prerequisite lessons.
+- [Can We Finish the Station Report? — Review147–156](reviews/review-147-156.md) — [Watch](https://www.youtube.com/watch?v=p6Mp1H8Hbt0).
 
 ## About the series
 
