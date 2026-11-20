@@ -180,7 +180,7 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 157 | [Can You Spot the AI Mistake?](episodes/157.md) | Spot the clue an AI used | [Watch](https://www.youtube.com/shorts/b4ld-vaSwvM) |
 | 158 | [Can You Fix Klic's Route?](episodes/158.md) | Trace and repair one turn | [Watch](https://www.youtube.com/shorts/R5DSucUHPEU) |
 | 159 | [Can You Fix the Scrambled Kite?](episodes/159.md) | Reassemble numbered packets | [Watch](https://www.youtube.com/shorts/yLpk3mPb9Rc) |
-| 160 | [Can One Tap Light the Parade?](episodes/160.md) | Repeat a step with a loop | Activity available ahead of the video |
+| 160 | [Can One Tap Light the Parade?](episodes/160.md) | Repeat a step with a loop | [Watch](https://www.youtube.com/shorts/r3XjnPYS4iM) |
 
 <!-- current-release-index:end -->
 
