@@ -169,7 +169,6 @@ Each guide includes a learning goal, a short explanation, an offline activity, a
 | 147 | [A File, Not a Folder!](episodes/147.md) | Combine an exact name with a regular-file type test | [Scheduled November 9, 2026 at 10AM Central](https://youtube.com/shorts/mOHqR7uDvZ8) |
 | 148 | [Two Times. Can We Choose?](episodes/148.md) | Preserve uncertainty when supplied clues conflict | [Scheduled November 9, 2026 at 3PM Central](https://youtube.com/shorts/G6Blp2UmQqI) |
 | 149 | [Same Frame, New Color!](episodes/149.md) | Preserve fixed template text while changing a variable value | [Scheduled November 10, 2026 at 10AM Central](https://youtube.com/shorts/nB0PYSmWxZI) |
-
 | 150 | [Which Lines Finish the Log?](episodes/150.md) | Count lines from the end of a log | [Watch](https://www.youtube.com/shorts/FeyrZfkIk4E) |
 | 151 | [Did the New Word Follow the Example?](episodes/151.md) | Check a model’s answer against an example | [Watch](https://www.youtube.com/shorts/XCiQY71Bl3c) |
 | 152 | [Will the Picnic Message Run?](episodes/152.md) | Predict when a condition runs a task | [Watch](https://www.youtube.com/shorts/DMI4Et-tjgg) |
